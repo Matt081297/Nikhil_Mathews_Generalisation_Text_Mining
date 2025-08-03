@@ -12,7 +12,6 @@ This repository contains the code, data organization, and scripts used for my ma
 - [Usage](#usage)
 - [Data](#data)
 - [Scripts](#scripts)
-- [Augmentation Code](#augmentation-code)
 - [Results](#results)
 - [References](#references)
 - [License](#license)
