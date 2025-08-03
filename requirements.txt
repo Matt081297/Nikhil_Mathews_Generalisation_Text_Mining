@@ -1,0 +1,17 @@
+datasets
+evaluate
+ethnicseer
+gender-guesser
+krippendorff
+matplotlib
+nameparser
+names-dataset
+nltk
+numpy
+pandas
+pycountry
+pycountry-convert
+scikit-learn
+seaborn
+torch
+transformers
