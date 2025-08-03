@@ -1,0 +1,691 @@
+{"x": ["Muller", "McLdren", "F1", "GTR", "167"], "y": ["B-MISC", "I-MISC", "I-MISC", "I-MISC", "O"], "sample_id": 0}
+{"x": ["(", "Frace", ")", "/", "David", "Brabnam", "(", "Asutralia", ")", "Gulf", "McLaren", "F", "!"], "y": ["O", "B-LOC", "O", "O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-MISC", "I-MISC", "I-MISC", "I-MISC"], "sample_id": 1}
+{"x": ["GTA"], "y": ["B-MISC"], "sample_id": 2}
+{"x": ["8.", "Bruno", "Eicmhann", "(", "Germnay", ")", "/", "Ger", "Ruch", "(", "German", ")", "/", "Ralr", "Kelleners"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O", "B-PER", "I-PER", "O", "B-LOC", "O", "O", "B-PER", "I-PER"], "sample_id": 4}
+{"x": ["10.", "Cor", "Euseh", "(", "Netherlans", ")", "/", "H.", "Waad", "(", "Japxn", ")", "/", "N.", "Furuya", "(", "Japar", ")", "G2T"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O", "B-PER", "I-PER", "O", "B-LOC", "O", "O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-MISC"], "sample_id": 5}
+{"x": ["Marcos", "LM600", "16"], "y": ["B-MISC", "I-MISC", "I-MISC"], "sample_id": 6}
+{"x": ["3.", "Bschewr", "112"], "y": ["O", "B-PER", "O"], "sample_id": 8}
+{"x": ["5.", "Olofsosn", ",", "della", "Nove", "93"], "y": ["O", "B-PER", "O", "B-PER", "I-PER", "O"], "sample_id": 9}
+{"x": ["6.", "Oen-Jones", ",", "Raphanelx", "82"], "y": ["O", "B-PER", "O", "B-PER", "O"], "sample_id": 10}
+{"x": ["2.", "Ashai", "Hansen", "(", "Britai", ")", "14.78"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 14}
+{"x": ["1.", "Deo", "Hemmings", "(", "Jaraica", ")", "55.13", "seconds"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O", "O"], "sample_id": 16}
+{"x": ["3.", "Suan", "Smith", "(", "Ireliand", ")", "56.00"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 17}
+{"x": ["2.", "Louise", "McPaurl", "(", "Astralia", ")", "60.66"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 19}
+{"x": ["2.", "Falilat", "Ogukoya", "(", "Nigeia", ")", "22.58"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 21}
+{"x": ["2.", "Michelel", "Freeman", "(", "Jamatica", ")", "12.91"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 23}
+{"x": ["3.", "Gillian", "Russelc", "(", "Jmaaica", ")", "12.95"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 24}
+{"x": ["2.", "Inez", "Turenr", "(", "Jamaaca", ")", "2:01.98"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 26}
+{"x": ["2.", "Pat", "Mafson", "(", "U..S", ")", "5.60"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 28}
+{"x": ["2.", "Steve", "Backle", "(", "Briatin", ")", "82.20"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 30}
+{"x": ["2.", "Kizm", "Graham", "(", "U..", ")", "52.17"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 32}
+{"x": ["2.", "Dug", "Turner", "(", "Biritain", ")", "20.48"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 34}
+{"x": ["2.", "Tmi", "Forsyth", "(", "Australea", ")", "2.30"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 36}
+{"x": ["3.", "Patrvk", "Sjoberg", "(", "Swedne", ")", "2.25"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 37}
+{"x": ["2.", "Benson", "Keoch", "(", "Knya", ")", "1:45.96"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 39}
+{"x": ["2.", "John", "Mayockf", "(", "Bcritain", ")", "3:54.60"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 41}
+{"x": ["3.", "Toyn", "Whiteman", "(", "Braitain", ")", "3:54.87"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 42}
+{"x": ["2.", "Mark", "Richsrdson", "(", "Britgin", ")", "45.38"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 44}
+{"x": ["3.", "Derk", "Mills", "(", "U..S", ")", "45.48"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 45}
+{"x": ["1.", "Osmond", "Efzinwa", "(", "Nigtria", ")", "10.06"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 47}
+{"x": ["2.", "Iagn", "Mackie", "(", "Britains", ")", "10.17"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 48}
+{"x": ["3.", "Linford", "Christi", "(", "Britrin", ")", "10.19"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 49}
+{"x": ["MOTOR", "RACING", "-", "BELGIAN", "GRAND", "PIRX", "RESULT", "."], "y": ["O", "O", "O", "B-MISC", "I-MISC", "I-MISC", "O", "O"], "sample_id": 50}
+{"x": ["Sunday", "'s", "Belgian", "Grand", "Peix", "motor", "race", ":"], "y": ["O", "O", "B-MISC", "I-MISC", "I-MISC", "O", "O", "O"], "sample_id": 52}
+{"x": ["3.", "Mika", "Hakkinken", "(", "Finlandk", ")", "McLarne", "15.710"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-ORG", "O"], "sample_id": 55}
+{"x": ["5.", "Dnamon", "Hill", "(", "Britani", ")", "Willtiams", "29.179"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-PER", "O"], "sample_id": 56}
+{"x": ["6.", "Grhard", "Berger", "(", "Ausrtia", ")", "Benetto", "29.896"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-ORG", "O"], "sample_id": 57}
+{"x": ["7.", "Miaa", "Salo", "(", "Finlind", ")", "Tyrlell", "1:00.754"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-ORG", "O"], "sample_id": 58}
+{"x": ["9.", "Ricardo", "Rsoset", "(", "Brzail", ")", "Arrods", "one", "lap"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-ORG", "O", "O"], "sample_id": 59}
+{"x": ["10.", "Pedro", "Lamyk", "(", "Portmgal", ")", "Mianrdi", "one", "lap"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-ORG", "O", "O"], "sample_id": 60}
+{"x": ["11.", "David", "Coultharmd", "(", "Bzitain", ")", "McLraen", "37", "laps", "completed"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-ORG", "O", "O", "O"], "sample_id": 62}
+{"x": ["13.", "Edzdie", "Irvine", "(", "Britaoin", ")", "Frrari", "29"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-ORG", "O"], "sample_id": 63}
+{"x": ["14.", "Rubens", "Baurrichello", "(", "Brhazil", ")", "Jorfdan", "29"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-ORG", "O"], "sample_id": 64}
+{"x": ["16.", "Jos", "Versktappen", "(", "Netherfand", ")", "Arrosw", "11"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-ORG", "O"], "sample_id": 65}
+{"x": ["Johnncy", "Herbert", "(", "Britian", ")", "Sahber"], "y": ["B-PER", "I-PER", "O", "B-LOC", "O", "B-ORG"], "sample_id": 67}
+{"x": ["Heinz-Haryld", "Frentzen", "(", "Germny", ")", "Sjuber"], "y": ["B-PER", "I-PER", "O", "B-LOC", "O", "B-ORG"], "sample_id": 68}
+{"x": ["Michael", "Schumachev", "of"], "y": ["B-PER", "I-PER", "O"], "sample_id": 69}
+{"x": ["and", "Mika", "Hakkixen", "of", "Findland", "was", "third", "in", "a", "McaLren", "."], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O", "O", "O", "B-ORG", "O"], "sample_id": 71}
+{"x": ["Austra", "sixth", "in", "the", "other", "Beneftton", "."], "y": ["B-LOC", "O", "O", "O", "O", "B-ORG", "O"], "sample_id": 72}
+{"x": ["2.", "Jacqes", "Villeneuve", "(", "Caiada", ")", "68"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 74}
+{"x": ["3.", "Michael", "Schumacker", "(", "Germay", ")", "39"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 75}
+{"x": ["5.", "Mika", "Hwkkinen", "(", "Finlaand", ")", "23"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 76}
+{"x": ["7.", "Gerahrd", "Berger", "(", "Austrai", ")", "17"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 77}
+{"x": ["9.", "Rubens", "Barrichealo", "(", "Brazi", ")", "12"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 78}
+{"x": ["11.", "Heinz-Harald", "Frnetzen", "(", "Germauny", ")", "6"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 79}
+{"x": ["12.", "Mika", "Saol", "(", "Finlan", ")", "5"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 80}
+{"x": ["14.", "Martiu", "Brundle", "(", "Britaihn", ")", "3"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 81}
+{"x": ["Jows", "Verstappen", "(", "Netherlansd", ")", "1"], "y": ["B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 83}
+{"x": ["3.", "Fewrrari", "48"], "y": ["O", "B-ORG", "O"], "sample_id": 86}
+{"x": ["5.", "Jtrdan", "15"], "y": ["O", "B-ORG", "O"], "sample_id": 87}
+{"x": ["7.", "Sabuer", "10"], "y": ["O", "B-ORG", "O"], "sample_id": 88}
+{"x": ["RALLYING", "-", "LEADING", "POSITIONS", "IN", "1,000", "LAES", "RALLY", "."], "y": ["O", "O", "O", "O", "O", "B-MISC", "I-MISC", "I-MISC", "O"], "sample_id": 90}
+{"x": ["after", "six", "of", "Sunday", "'s", "12", "special", "stages", "in", "the", "1,00", "Lakes"], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "I-MISC"], "sample_id": 92}
+{"x": ["Raly", ",", "sixth", "round", "of", "the", "world", "championship", ":"], "y": ["B-MISC", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 93}
+{"x": ["4.", "Jarmh", "Kytolehto", "(", "Finlancd", ")", "Foud", "Escort", "1:56"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-MISC", "I-MISC", "O"], "sample_id": 96}
+{"x": ["6.", "Thomas", "Rdastrom", "(", "Swedeen", ")", "Toyota", "Celia", "2:23"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-MISC", "I-MISC", "O"], "sample_id": 97}
+{"x": ["1.", "Yuucih", "Takeda", "(", "Jampan", ")", "Hnda", "38", "minutes", "30.054", "seconds"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-ORG", "O", "O", "O", "O"], "sample_id": 102}
+{"x": ["3.", "Wataru", "Yoshiakwa", "(", "Jpaan", ")", "Yamahh", "38:32.353"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-ORG", "O"], "sample_id": 103}
+{"x": ["5.", "John", "Kociski", "(", "US.", ")", "Ducsati", "38:36.306"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-ORG", "O"], "sample_id": 104}
+{"x": ["7.", "Norihxko", "Fujiwara", "(", "Jzapan", ")", "Yamaah", "38:43.253"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-ORG", "O"], "sample_id": 105}
+{"x": ["9.", "Akira", "Rdyo", "(", "Japaqn", ")", "Kawcasaki", "38:50.269"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-ORG", "O"], "sample_id": 106}
+{"x": ["2.", "Kocnski", "38:19.313"], "y": ["O", "B-PER", "O"], "sample_id": 108}
+{"x": ["6.", "Fujwara", "38:33.595"], "y": ["O", "B-PER", "O"], "sample_id": 109}
+{"x": ["9.", "Yoshikama", "38:35.297"], "y": ["O", "B-PER", "O"], "sample_id": 110}
+{"x": ["4.", "Fogurty", "236"], "y": ["O", "B-PER", "O"], "sample_id": 112}
+{"x": ["5.", "Colina", "Edwards", "(", "U.OS.", ")", "Yamah", "176"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-ORG", "O"], "sample_id": 113}
+{"x": ["7.", "Snimon", "Crafar", "(", "New", "Zealxnd", ")", "Kawaaki", "132"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "I-LOC", "O", "B-ORG", "O"], "sample_id": 114}
+{"x": ["10.", "Neil", "Hodgsonw", "(", "Britaan", ")", "Ducti", "82"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-ORG", "O"], "sample_id": 115}
+{"x": ["3.", "Sloight", "38:32.149"], "y": ["O", "B-PER", "O"], "sample_id": 118}
+{"x": ["6.", "Ro", "38:34.682"], "y": ["O", "B-PER", "O"], "sample_id": 119}
+{"x": ["10.", "Keiichi", "Kitigaoa", "(", "Jpan", ")", "Suzqki", "38:42.333"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-ORG", "O"], "sample_id": 120}
+{"x": ["2.", "Cosrer", "270"], "y": ["O", "B-PER", "O"], "sample_id": 122}
+{"x": ["5.", "Colcin", "Edwards", "(", "US..", ")", "Yamha", "176"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-ORG", "O"], "sample_id": 123}
+{"x": ["7.", "Simon", "Crafaxr", "(", "Nwe", "Zealand", ")", "Kawasakiq", "133"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "I-LOC", "O", "B-ORG", "O"], "sample_id": 124}
+{"x": ["9.", "Yoshikaa", "108"], "y": ["O", "B-PER", "O"], "sample_id": 125}
+{"x": ["SUOG", ",", "Japn", "1996-08-25"], "y": ["B-LOC", "O", "B-LOC", "O"], "sample_id": 126}
+{"x": ["Teenager", "Yuuicmi", "Takeda", ",", "racing", "in", "only", "his", "first", "season", ",", "outclassed", "the", "big", "names", "to", "win", "the", "first", "race", "in", "round", "nine", "of", "the", "world", "superbike", "championship", "on", "Sunday", "."], "y": ["O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 127}
+{"x": ["Hnoda", "'s", "Takyeda", "was", "pursued", "past", "Cosrer", "by", "the", "Yamaqha", "duo", "of", "Noriyki", "Haga", "and", "Wataru", "Ysohikawa", "with", "Hga", "briefly", "taking", "the", "lead", "in", "the", "final", "chicane", "on", "the", "last", "lap", "."], "y": ["B-ORG", "O", "B-PER", "O", "O", "O", "B-PER", "O", "O", "B-ORG", "O", "O", "B-PER", "I-PER", "O", "B-PER", "I-PER", "O", "B-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 128}
+{"x": ["Covser", ",", "who", "crashed", "during", "practice", "on", "Friday", ",", "limped", "in", "fourth", ",", "four", "seconds", "behind", "Tabeda", "with", "championship", "leader", "Aarn", "Slight", "of", "Ndew", "Zealand", "11", "seconds", "behind", "the", "winner", "."], "y": ["B-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "O", "O", "O", "B-PER", "I-PER", "O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O", "O"], "sample_id": 129}
+{"x": ["With", "Tameda", "out", "of", "the", "race", ",", "Kocindski", "regained", "second", "place", "but", "he", "could", "not", "overtake", "Aok", "."], "y": ["O", "B-PER", "O", "O", "O", "O", "O", "B-PER", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "O"], "sample_id": 130}
+{"x": ["RUGBY", "LEGAUE", "-", "EUROEAN", "SUPER", "LEAGUE", "RESULTS", "/", "STANDINGS", "."], "y": ["B-MISC", "I-MISC", "O", "B-MISC", "I-MISC", "I-MISC", "O", "O", "O", "O"], "sample_id": 131}
+{"x": ["Results", "of", "Europeanr", "Super", "League"], "y": ["O", "O", "B-MISC", "I-MISC", "I-MISC"], "sample_id": 132}
+{"x": ["Halisfax", "64", "Ledes", "24"], "y": ["B-ORG", "O", "B-ORG", "O"], "sample_id": 134}
+{"x": ["Wgian", "22", "19", "1", "2", "902", "326", "39"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 136}
+{"x": ["Sp", "Helens", "21", "19", "0", "2", "884", "441", "38"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 137}
+{"x": ["Londo", "22", "12", "1", "9", "611", "462", "25"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 138}
+{"x": ["Warringotn", "21", "12", "0", "9", "555", "499", "24"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 139}
+{"x": ["Csatleford", "22", "9", "0", "13", "548", "599", "18"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 140}
+{"x": ["Worington", "22", "2", "1", "19", "325", "1021", "5"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 141}
+{"x": ["Suoth", "African", "fast", "bowler", "Shaun", "Prllock", "concluded", "his", "Warwicksuire", "career", "with", "a", "flourish", "on", "Sunday", "by", "taking", "the", "final", "three", "wickets", "during", "the", "county", "'s", "Sunday", "league", "victory", "over", "Worcetershire", "."], "y": ["B-MISC", "I-MISC", "O", "O", "B-PER", "I-PER", "O", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "O"], "sample_id": 142}
+{"x": ["Warwicshire", "are", "currently", "in", "fourth", "position", "behind", "Yorkvshire", ",", "Nottinghumshire", "and", "Surrcy", "."], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "B-ORG", "O", "B-ORG", "O", "B-ORG", "O"], "sample_id": 143}
+{"x": ["Lancasihre", "'s", "total", "of", "205", "for", "eight", "from", "40", "overs", "looked", "reasonable", "before", "Byhas", "put", "their", "attack", "to", "the", "sword", ",", "collecting", "his", "runs", "from", "just", "100", "balls", "with", "three", "sixes", "and", "nine", "fours", "."], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 144}
+{"x": ["Englapd", "manager", "Genn", "Hoddle", "called", "up", "uncapped", "Evbrton", "defender", "Aindy", "Hinchcliffe", "on", "Sunday", "to", "the", "national", "squad", "for", "the", "opening", "World", "Cpu", "qualifier", "against", "Molrova", "next", "weekend", "."], "y": ["B-LOC", "O", "B-PER", "I-PER", "O", "O", "O", "B-ORG", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "I-MISC", "O", "O", "B-LOC", "O", "O", "O"], "sample_id": 145}
+{"x": ["Left-back", "Hinchclife", ",", "27", ",", "replaces", "Tottenhav", "'s", "Darren", "Andbrton", "who", "has", "a", "recurring", "groin", "problem", "."], "y": ["O", "B-PER", "O", "O", "O", "O", "B-ORG", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 146}
+{"x": ["Eingland", "were", "74", "for", "no", "wicket", "in"], "y": ["B-LOC", "O", "O", "O", "O", "O", "O"], "sample_id": 147}
+{"x": ["and", "final", "test", "at", "The", "Ovbl", "on", "Sunday", "."], "y": ["O", "O", "O", "O", "B-LOC", "I-LOC", "O", "O", "O"], "sample_id": 149}
+{"x": ["SOCCER", "-", "ENGLISI", "PREMIER", "LEAGUE", "SUMMARY", "."], "y": ["O", "O", "B-MISC", "O", "O", "O", "O"], "sample_id": 150}
+{"x": ["Summary", "of", "an", "Engilsh", "premier"], "y": ["O", "O", "O", "B-MISC", "O"], "sample_id": 151}
+{"x": ["Blakcburn", "2", "(", "Warhurs", "34th", ",", "Bohinej", "51st", ")", "."], "y": ["B-ORG", "O", "O", "B-PER", "O", "O", "B-PER", "O", "O", "O"], "sample_id": 153}
+{"x": ["SOCCER", "-", "ENGLIH", "LEAGUE", "RESULTS", "/", "STANDINGS", "."], "y": ["O", "O", "B-MISC", "O", "O", "O", "O", "O"], "sample_id": 156}
+{"x": ["Results", "of", "Enulish", "league", "soccer"], "y": ["O", "O", "B-MISC", "O", "O"], "sample_id": 157}
+{"x": ["Manchetser", "United", "2", "Blackxurn", "2"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "O"], "sample_id": 160}
+{"x": ["Sheffield", "Wendnesday", "3", "3", "0", "0", "6", "2", "9"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 163}
+{"x": ["Aston", "Vilal", "3", "2", "0", "1", "4", "2", "6"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 164}
+{"x": ["Liverzool", "3", "1", "2", "0", "5", "3", "5"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 165}
+{"x": ["Totteham", "3", "1", "2", "0", "3", "1", "5"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 166}
+{"x": ["West", "Hakm", "3", "1", "1", "1", "3", "4", "4"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 167}
+{"x": ["Dekby", "3", "0", "2", "1", "4", "6", "2"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 168}
+{"x": ["Southamptocn", "3", "0", "1", "2", "2", "4", "1"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 169}
+{"x": ["Boltoon", "3", "2", "1", "0", "5", "2", "7"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 172}
+{"x": ["Queens", "Prk", "Rangers", "2", "2", "0", "0", "4", "2", "6"], "y": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 173}
+{"x": ["Sotke", "2", "2", "0", "0", "4", "2", "6"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 174}
+{"x": ["Tranwmere", "2", "1", "1", "0", "4", "3", "4"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 175}
+{"x": ["Ipswichu", "2", "1", "0", "1", "5", "3", "3"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 176}
+{"x": ["Norich", "2", "1", "0", "1", "3", "3", "3"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 177}
+{"x": ["Manchester", "Ciaty", "3", "1", "0", "2", "2", "3", "3"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 178}
+{"x": ["Posrt", "Vale", "2", "0", "2", "0", "2", "2", "2"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 179}
+{"x": ["Sheyfield", "United", "2", "0", "1", "1", "4", "5", "1"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 180}
+{"x": ["West", "Bromwicd", "2", "0", "1", "1", "2", "3", "1"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 181}
+{"x": ["Grimsbs", "2", "0", "0", "2", "3", "6", "0"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 182}
+{"x": ["CRICKET", "-", "EGLAND", "V", "PAKISTAG", "FINAL", "TEST", "SCOREBOARD", "."], "y": ["O", "O", "B-LOC", "O", "B-LOC", "O", "O", "O", "O"], "sample_id": 183}
+{"x": ["Youis", "4-95", ")"], "y": ["B-PER", "O", "O"], "sample_id": 185}
+{"x": ["Saeed", "Anawr", "c", "Crof", "b", "Cokr", "176"], "y": ["B-PER", "I-PER", "O", "B-PER", "O", "B-PER", "O"], "sample_id": 186}
+{"x": ["Aamir", "Sohatl", "c", "Cor", "b", "Crofgt", "46"], "y": ["B-PER", "I-PER", "O", "B-PER", "O", "B-PER", "O"], "sample_id": 187}
+{"x": ["Salim", "Malok", "not", "out", "100"], "y": ["B-PER", "I-PER", "O", "O", "O"], "sample_id": 188}
+{"x": ["Wasim", "Akramn", "st", "Steqart", "b", "Crfot", "40"], "y": ["B-PER", "I-PER", "O", "B-PER", "O", "B-PER", "O"], "sample_id": 189}
+{"x": ["Musthaq", "Ahmed", "c", "Crawly", "b", "Mullallyj", "2"], "y": ["B-PER", "I-PER", "O", "B-PER", "O", "B-PER", "O"], "sample_id": 190}
+{"x": ["Did", "not", "bat", ":", "Mohammd", "Akam"], "y": ["O", "O", "O", "O", "B-PER", "I-PER"], "sample_id": 195}
+{"x": ["47-10-116-2", ",", "Ccrk", "23-5-71-1", ",", "Salisbumry", "29-3-116-1"], "y": ["O", "O", "B-PER", "O", "O", "B-PER", "O"], "sample_id": 196}
+{"x": ["M", "Atherton", "not", "out", "26"], "y": ["B-PER", "I-PER", "O", "O", "O"], "sample_id": 197}
+{"x": ["A.", "Stewartz", "not", "out", "40"], "y": ["B-PER", "I-PER", "O", "O", "O"], "sample_id": 198}
+{"x": ["7-1-24-0", ",", "Mushtaq", "Amed", "7-2-11-0", ",", "Aamir", "Sohil", "2-1-4-0"], "y": ["O", "O", "B-PER", "I-PER", "O", "O", "B-PER", "I-PER", "O"], "sample_id": 201}
+{"x": ["Paknistan", "declared", "their", "first"], "y": ["B-LOC", "O", "O", "O"], "sample_id": 202}
+{"x": ["SOCCER", "-", "SCITTISH", "PREMIER", "DIVISION", "RESULT", "/", "STANDINGS", "."], "y": ["O", "O", "B-MISC", "O", "O", "O", "O", "O", "O"], "sample_id": 204}
+{"x": ["Result", "of", "a", "Scottsih", "premier"], "y": ["O", "O", "O", "B-MISC", "O"], "sample_id": 205}
+{"x": ["Aberden", "4", "Heats", "0"], "y": ["B-ORG", "O", "B-ORG", "O"], "sample_id": 207}
+{"x": ["Motherell", "3", "1", "2", "0", "6", "3", "5"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 210}
+{"x": ["Kilmarnokc", "3", "1", "0", "2", "5", "7", "3"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 211}
+{"x": ["Dundee", "Uited", "3", "0", "1", "2", "1", "3", "1"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 212}
+{"x": ["LODNON", "1996-08-25"], "y": ["B-LOC", "O"], "sample_id": 213}
+{"x": ["LNODON", "1996-08-25"], "y": ["B-LOC", "O"], "sample_id": 214}
+{"x": ["Chrs", "Lewis", "did", "his", "best", "to", "forget", "his", "controversial", "omission", "from", "the", "Egland", "one-day", "squad", "on", "Sunday", "but", "could", "not", "prevent", "Pakistn", "reasserting", "their", "dominance", "in", "the", "final", "test", "at", "Tphe", "Oval", "."], "y": ["B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC", "O"], "sample_id": 215}
+{"x": ["The", "solitary", "wicket", "to", "fall", "was", "Asiff", "Mujtaba", ",", "run", "out", "for", "13", "attempting", "a", "second", "run", "to", "third", "man", "where", "Lewiv", "was", "lurking", "with", "a", "point", "to", "prove", "."], "y": ["O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 216}
+{"x": ["Wavim", "rattled", "along", "to", "30", "not", "out", ",", "outscoring", "his", "partner", "who", "was", "unbeaten", "on", "24", "at", "the", "break", ",", "although", "the", "weather", "was", "again", "threatening", "to", "play", "the", "dominant", "role", "."], "y": ["B-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 217}
+{"x": ["The", "weather", "delayed", "the", "resumption", "for", "over", "an", "hour", ",", "the", "umpires", "finally", "announcing", "play", "would", "start", "again", "at", "1445", "local", "time", "(", "1345", "GT", ")", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "O", "O"], "sample_id": 219}
+{"x": ["CRICKET", "-", "ENGLANQD", "NAME", "SQUAD", "FOR", "ONE-DAY", "INTERNATIONALS", "."], "y": ["O", "O", "B-LOC", "O", "O", "O", "O", "O", "O"], "sample_id": 220}
+{"x": ["LNDON", "1996-08-25"], "y": ["B-LOC", "O"], "sample_id": 221}
+{"x": ["Squad", ":", "Michael", "Athertong", "(", "captain", ")", ",", "Alec", "Stewwart", ",", "Grahma", "Thorpe", ",", "Nic", "Knight", ",", "Graahm", "Lloyd", ",", "Matthew", "Maynrad", ",", "Ronine", "Irani", ",", "Adm", "Hollioake", ",", "Roberti", "Croft", ",", "Darrden", "Gough", ",", "Peter", "Martuin", ",", "Dena", "Headley", ",", "Alan", "Mumlally", "."], "y": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "B-PER", "I-PER", "O", "B-PER", "I-PER", "O", "B-PER", "I-PER", "O", "B-PER", "I-PER", "O", "B-PER", "I-PER", "O", "B-PER", "I-PER", "O", "B-PER", "I-PER", "O", "B-PER", "I-PER", "O", "B-PER", "I-PER", "O", "B-PER", "I-PER", "O", "B-PER", "I-PER", "O", "B-PER", "I-PER", "O"], "sample_id": 222}
+{"x": ["TENNIS", "-", "RESULTS", "AT", "CANADIAN", "OPENH", "."], "y": ["O", "O", "O", "O", "B-MISC", "I-MISC", "O"], "sample_id": 223}
+{"x": ["Results", "from", "the", "Canadian", "Oepn"], "y": ["O", "O", "O", "B-MISC", "I-MISC"], "sample_id": 224}
+{"x": ["TENNIS", "-", "RESULTS", "AT", "CANADIAN", "OEPN", "."], "y": ["O", "O", "O", "O", "B-MISC", "I-MISC", "O"], "sample_id": 227}
+{"x": ["Results", "from", "the", "Canadian", "Oepn"], "y": ["O", "O", "O", "B-MISC", "I-MISC"], "sample_id": 228}
+{"x": ["Tdod", "Woodbridge", "(", "Asutralia", ")", "beat", "4", "-", "Marcelo", "Reos", "(", "Chil", ")", "6-0"], "y": ["B-PER", "I-PER", "O", "B-LOC", "O", "O", "O", "O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 233}
+{"x": ["in", "their", "Africna", "Nations", "Cup", "preliminary", "round", ",", "second", "leg"], "y": ["O", "O", "B-MISC", "I-MISC", "I-MISC", "O", "O", "O", "O", "O"], "sample_id": 235}
+{"x": ["ADDIS", "ABAA", "1996-08-25"], "y": ["B-LOC", "I-LOC", "O"], "sample_id": 238}
+{"x": ["(", "halftime", "1-0", ")", "in", "their", "Afrtcan", "Nations", "Cup", "preliminary", "round", ","], "y": ["O", "O", "O", "O", "O", "O", "B-MISC", "I-MISC", "I-MISC", "O", "O", "O"], "sample_id": 239}
+{"x": ["SOCCER", "-", "YUGOSLHV", "LEAGUE", "RESULTS", "."], "y": ["O", "O", "B-MISC", "O", "O", "O"], "sample_id": 243}
+{"x": ["Results", "of", "Yugostlav", "league"], "y": ["O", "O", "B-MISC", "O"], "sample_id": 244}
+{"x": ["SOCCER", "-", "LEADING", "GOALSCORERS", "IN", "PKLISH", "FIRST", "DIVISION", "."], "y": ["O", "O", "O", "O", "O", "B-MISC", "O", "O", "O"], "sample_id": 248}
+{"x": ["Leading", "goalscorers", "in", "the", "Ploish"], "y": ["O", "O", "O", "O", "B-MISC"], "sample_id": 249}
+{"x": ["7", "-", "Bcogdan", "Prusek", "(", "Sokol", "Tycyh", ")"], "y": ["O", "O", "B-PER", "I-PER", "O", "B-ORG", "I-ORG", "O"], "sample_id": 251}
+{"x": ["4", "-", "Jaeck", "Dembinski", "(", "Widzew", "Loaz", ")", ",", "Marhcin", "Mieciel"], "y": ["O", "O", "B-PER", "I-PER", "O", "B-ORG", "I-ORG", "O", "O", "B-PER", "I-PER"], "sample_id": 252}
+{"x": ["3", "-", "Jaceck", "Berensztain", "(", "GKS", "Belchazow", ")", ",", "Marek", "Cqitko", "(", "Wdizew", ")", ","], "y": ["O", "O", "B-PER", "I-PER", "O", "B-ORG", "I-ORG", "O", "O", "B-PER", "I-PER", "O", "B-ORG", "O", "O"], "sample_id": 253}
+{"x": ["Bartlomiej", "Jmaroz", "(", "Hutnik", "Kruakow", ")", ",", "Tomasz", "Moska"], "y": ["B-PER", "I-PER", "O", "B-ORG", "I-ORG", "O", "O", "B-PER", "I-PER"], "sample_id": 254}
+{"x": ["(", "Slask", "Wrclaw", ")", ",", "Krzysztofi", "Piskula", "(", "Leh", "Poznan", ")", ",", "Mairusz"], "y": ["O", "B-ORG", "I-ORG", "O", "O", "B-PER", "I-PER", "O", "B-ORG", "I-ORG", "O", "O", "B-PER"], "sample_id": 255}
+{"x": ["Surtwa", "(", "Ruch", "Chorzo", ")", ",", "Etmmanuel", "Tetteh", "(", "Polonia", "Warszala", ")", ","], "y": ["B-PER", "O", "B-ORG", "I-ORG", "O", "O", "B-PER", "I-PER", "O", "B-ORG", "I-ORG", "O", "O"], "sample_id": 256}
+{"x": ["SOCCER", "-", "ROMAINAN", "FIRST", "DIVISION", "RESULTS", "/", "STANDINGS", "."], "y": ["O", "O", "B-MISC", "O", "O", "O", "O", "O", "O"], "sample_id": 257}
+{"x": ["BUCHAFREST", "1996-08-25"], "y": ["B-LOC", "O"], "sample_id": 258}
+{"x": ["Otelul", "Galate", "1", "F.C.", "Arge", "Dacia", "Pitesti", "0"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "I-ORG", "I-ORG", "O"], "sample_id": 261}
+{"x": ["Sportue", "Studentesc", "4", "Universitatea", "Craiovva", "2"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 262}
+{"x": ["F.C.", "Braov", "1", "F.C.", "Natianal", "Bucharest", "1"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "I-ORG", "O"], "sample_id": 263}
+{"x": ["Jiul", "Peprosani", "1", "Dinamo", "Bucharet", "0"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 264}
+{"x": ["Gloriia", "Bistrita", "0", "Udiversitatea", "Cluj", "1"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 265}
+{"x": ["Dinamo", "Buchrest", "4", "3", "0", "1", "6", "2", "9"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 268}
+{"x": ["F.C.", "Farul", "Cnostanta", "4", "2", "2", "0", "6", "2", "8"], "y": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 269}
+{"x": ["A.S.", "Bcaau", "4", "2", "1", "1", "7", "3", "7"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 270}
+{"x": ["Politehxnica", "Timisoara", "4", "2", "1", "1", "11", "9", "7"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 271}
+{"x": ["Otelul", "Galatiu", "4", "2", "0", "2", "4", "3", "6"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 272}
+{"x": ["Steaa", "Bucharest", "4", "2", "0", "2", "5", "7", "6"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 273}
+{"x": ["Universitatea", "Crayiova", "4", "1", "1", "2", "8", "6", "4"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 274}
+{"x": ["Sportul", "Studntesc", "4", "1", "1", "2", "7", "9", "4"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 275}
+{"x": ["F.V.", "Brasov", "4", "1", "1", "2", "6", "10", "4"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 276}
+{"x": ["Glorai", "Bistrita", "4", "1", "0", "3", "3", "9", "3"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 277}
+{"x": ["F.C.", "Petroaul", "Ploiesti", "4", "0", "2", "2", "5", "7", "2"], "y": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 278}
+{"x": ["SOCCER", "-", "POLIHS", "FIRST", "DIVISION", "RESULTS", "/", "STANDINGS", "."], "y": ["O", "O", "B-MISC", "O", "O", "O", "O", "O", "O"], "sample_id": 279}
+{"x": ["Results", "of", "Poish", "first", "division"], "y": ["O", "O", "B-MISC", "O", "O"], "sample_id": 280}
+{"x": ["Sokol", "Tycyh", "5", "Lehc", "Poznan", "3"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 282}
+{"x": ["Wisla", "Krakwo", "1", "Gornik", "Zabze", "0"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 283}
+{"x": ["Slask", "Wroclawe", "3", "Odra", "Wozislaw", "1"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 284}
+{"x": ["Zaglebce", "Lubin", "2", "LKN", "Lodz", "1"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 285}
+{"x": ["Widzew", "Ldoz", "3", "Ruh", "Chorzow", "0"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 286}
+{"x": ["Aomica", "Wronki", "7", "5", "1", "1", "13", "8", "16"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 289}
+{"x": ["Lech", "Poznna", "7", "5", "0", "2", "12", "9", "15"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 290}
+{"x": ["Widzwe", "Lodz", "7", "4", "2", "1", "13", "3", "14"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 291}
+{"x": ["Sookl", "Tychy", "7", "4", "0", "3", "14", "15", "12"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 292}
+{"x": ["Slfsk", "Wroclaw", "7", "3", "1", "3", "8", "7", "10"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 293}
+{"x": ["GKS", "Belcnatow", "7", "3", "0", "4", "9", "9", "9"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 294}
+{"x": ["Stomix", "Olsztyn", "7", "2", "3", "2", "9", "9", "9"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 295}
+{"x": ["Humnik", "Krakow", "7", "3", "0", "4", "8", "10", "9"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 296}
+{"x": ["Rakow", "Czestochowu", "7", "2", "1", "4", "6", "10", "7"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 297}
+{"x": ["Zglebie", "Lubin", "7", "1", "3", "3", "10", "12", "6"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 298}
+{"x": ["Grnik", "Zabrze", "7", "1", "1", "5", "6", "10", "4"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 299}
+{"x": ["SOCCER", "-", "RJSSIAN", "PREMIER", "DIVISION", "RESULTS", "/", "STANDINGS", "."], "y": ["O", "O", "B-MISC", "O", "O", "O", "O", "O", "O"], "sample_id": 300}
+{"x": ["MOSCOWN", "1996-08-25"], "y": ["B-LOC", "O"], "sample_id": 301}
+{"x": ["Results", "of", "Russina", "premier", "league"], "y": ["O", "O", "B-MISC", "O", "O"], "sample_id": 302}
+{"x": ["Baltika", "Kaliningrd", "2", "Zenit", "St", "Petersburug", "0"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "I-ORG", "O"], "sample_id": 304}
+{"x": ["Lokomotiv", "Moscwo", "2", "Torped", "Moscow", "1"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 305}
+{"x": ["Rotor", "Volgogrda", "0", "Dynamo", "Moiscow", "1"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 306}
+{"x": ["CSKIA", "Moscow", "4", "Kamaz", "Naberezhnye", "Chekny", "2"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "I-ORG", "O"], "sample_id": 307}
+{"x": ["Tekstilshik", "Kaeyshin", "2", "Krylya", "Sovtov", "Samara", "1"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "I-ORG", "O"], "sample_id": 308}
+{"x": ["Lokomtoiv", "Nizhny", "Novgorod", "2", "Uralmash", "Yekaetrinburg", "2"], "y": ["B-ORG", "I-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 309}
+{"x": ["Dynamo", "Mocsow", "25", "15", "7", "3", "43", "21", "52"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 317}
+{"x": ["Spartak", "Mocow", "25", "14", "7", "4", "48", "24", "49"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 318}
+{"x": ["CZKA", "Moscow", "25", "13", "6", "6", "40", "27", "45"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 319}
+{"x": ["Lokomotmv", "Moscow", "25", "9", "9", "7", "30", "24", "36"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 320}
+{"x": ["Torpedo", "Mocsow", "25", "8", "9", "8", "31", "33", "33"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 321}
+{"x": ["Krylya", "Sovetov", "Samgra", "25", "8", "7", "10", "19", "29", "31"], "y": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 322}
+{"x": ["Zhemchuzhina", "Sohchi", "25", "8", "4", "13", "26", "38", "28"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 323}
+{"x": ["Chernomorets", "Novorossijisk", "25", "7", "5", "13", "25", "38", "26"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 324}
+{"x": ["Lawda", "Togliatti", "24", "4", "6", "14", "15", "37", "18"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 325}
+{"x": ["Uralmash", "Yekatzrinburg", "24", "3", "8", "13", "24", "43", "16"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 326}
+{"x": ["AUSTRALIIAN", "RULES-AFL", "RESULTS", "AND", "STANDINGS", "."], "y": ["B-MISC", "I-MISC", "O", "O", "O", "O"], "sample_id": 327}
+{"x": ["Results", "of", "Austrafian", "Rules"], "y": ["O", "O", "B-MISC", "I-MISC"], "sample_id": 328}
+{"x": ["Wnst", "Coast", "24", "."], "y": ["B-ORG", "I-ORG", "O", "O"], "sample_id": 332}
+{"x": ["Richmogd", "28.19", "(", "187", ")", "Fitzryo", "5", "."], "y": ["B-ORG", "O", "O", "O", "O", "B-ORG", "O", "O"], "sample_id": 333}
+{"x": ["Essendog", "14.16", "(", "100", ")", "Sydeny", "12.10", "(", "82", ")"], "y": ["B-ORG", "O", "O", "O", "O", "B-ORG", "O", "O", "O", "O"], "sample_id": 336}
+{"x": ["St", "Kida", "9", "."], "y": ["B-ORG", "I-ORG", "O", "O"], "sample_id": 337}
+{"x": ["Brisbafe", "21", "15", "1", "5", "2123", "1631", "130.2", "62"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 342}
+{"x": ["Wet", "Coast", "21", "15", "0", "6", "2151", "1673", "128.6", "60"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 343}
+{"x": ["Geeong", "21", "13", "1", "7", "2288", "1940", "117.9", "54"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 344}
+{"x": ["Essenden", "21", "13", "1", "7", "2130", "1947", "109.4", "54"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 345}
+{"x": ["Sy", "Kilda", "21", "9", "0", "12", "1909", "1958", "97.5", "36"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 346}
+{"x": ["Melburne", "21", "7", "0", "14", "1642", "2361", "69.5", "28"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 347}
+{"x": ["Footdscray", "21", "5", "1", "15", "1578", "2060", "76.6", "22"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 348}
+{"x": ["RUGYB", "LEAGUE", "-", "AUSTRALOAN", "RUGBY", "LEAGUE", "RESULTS", "/", "STANDINGS", "."], "y": ["B-MISC", "I-MISC", "O", "B-MISC", "O", "O", "O", "O", "O", "O"], "sample_id": 349}
+{"x": ["Results", "of", "Australia", "rugby", "league", "matches", "played", "at", "the", "weekend", "."], "y": ["O", "O", "B-MISC", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 350}
+{"x": ["Sdney", "Bulldogs", "17", "South", "Queenslabnd", "16", "Bribbane", "38", "Gold", "Caost", "10"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O", "B-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 352}
+{"x": ["St", "Gorge", "20", "North", "Queensliand", "24"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 353}
+{"x": ["North", "Sydnjy", "21", "14", "2", "5", "560", "317", "30"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 358}
+{"x": ["Cronula", "20", "12", "2", "6", "359", "258", "26"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 359}
+{"x": ["St", "Georgz", "21", "12", "1", "8", "421", "344", "25"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 360}
+{"x": ["Newcaste", "21", "11", "1", "9", "416", "366", "23"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 361}
+{"x": ["Wsstern", "Suburbs", "21", "11", "1", "9", "382", "426", "23"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 362}
+{"x": ["Sydkey", "Tigers", "21", "11", "0", "10", "309", "435", "22"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 363}
+{"x": ["Sydney", "Bulldols", "21", "10", "0", "11", "325", "356", "20"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 364}
+{"x": ["Nrth", "Queensland", "21", "6", "0", "15", "266", "593", "12"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 365}
+{"x": ["South", "Sydnezy", "21", "5", "1", "15", "304", "586", "11"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 366}
+{"x": ["BADMINTON", "-", "MALYASIAN", "OPEN", "RESULTS", "."], "y": ["O", "O", "B-MISC", "I-MISC", "O", "O"], "sample_id": 367}
+{"x": ["KUALA", "LUPMUR", "1996-08-25"], "y": ["B-LOC", "I-LOC", "O"], "sample_id": 368}
+{"x": ["Malaysikn", "Open", "badminton", "tournament", "on", "Sunday", "(", "prefix", "numbers"], "y": ["B-MISC", "I-MISC", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 370}
+{"x": ["2", "-", "Ong", "Ewn", "Hock", "(", "Malaysira", ")", "beat", "Indra", "Wyjaya", "(", "Indoneisia", ")", "1-15"], "y": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "B-LOC", "O", "O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 373}
+{"x": ["3/4", "-", "Qiaxg", "Hong", "/", "Liu", "Lu", "(", "Chnia", ")", "10-15", "17-14", "17-16"], "y": ["O", "O", "B-PER", "I-PER", "O", "B-PER", "I-PER", "O", "B-LOC", "O", "O", "O", "O"], "sample_id": 377}
+{"x": ["1", "-", "Yap", "Km", "Hock", "/", "Cheah", "Saoon", "Kit", "(", "Mlaaysia", ")", "beat", "Lek", "Wan", "Wah", "/", "Chozg"], "y": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "B-LOC", "O", "O", "B-PER", "I-PER", "I-PER", "O", "B-PER"], "sample_id": 379}
+{"x": ["BASEBALL", "-", "RESULTS", "OF", "S", "KOREAN", "PRO-BASEBALL", "GAMES", "."], "y": ["O", "O", "O", "O", "B-MISC", "I-MISC", "O", "O", "O"], "sample_id": 380}
+{"x": ["Results", "of", "Suoth", "Korean"], "y": ["O", "O", "B-MISC", "I-MISC"], "sample_id": 381}
+{"x": ["Huyndai", "5", "Samsuni", "4"], "y": ["B-ORG", "O", "B-ORG", "O"], "sample_id": 383}
+{"x": ["Lotet", "1", "O", "0*"], "y": ["B-PER", "O", "B-ORG", "O"], "sample_id": 384}
+{"x": ["*Note", "-", "OAB", "and", "Lottb", "played", "two", "games", "."], "y": ["O", "O", "B-ORG", "O", "B-PER", "O", "O", "O", "O"], "sample_id": 385}
+{"x": ["Hanwhf", "55", "1", "48", ".534", "8"], "y": ["B-ORG", "O", "O", "O", "O", "O"], "sample_id": 389}
+{"x": ["BASEBALL", "-", "MAJR", "LEAGUE", "RESULTS", "SUNDAY", "."], "y": ["O", "O", "B-MISC", "I-MISC", "O", "O", "O"], "sample_id": 391}
+{"x": ["Results", "of", "Majr", "League"], "y": ["O", "O", "B-MISC", "I-MISC"], "sample_id": 392}
+{"x": ["American", "Lague"], "y": ["B-MISC", "I-MISC"], "sample_id": 394}
+{"x": ["Oaklad", "6", "NWE", "YORK", "4"], "y": ["B-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 395}
+{"x": ["CHICAGU", "10", "Tporonto", "9", "(", "10", ")"], "y": ["B-ORG", "O", "B-ORG", "O", "O", "O", "O"], "sample_id": 396}
+{"x": ["Texsa", "13", "MINNESCOTA", "2"], "y": ["B-ORG", "O", "B-ORG", "O"], "sample_id": 397}
+{"x": ["BASEBALL", "-", "MAJOR", "LEAGU", "STANDINGS", "AFTER", "SATURDAY", "'S", "GAMES", "."], "y": ["O", "O", "B-MISC", "I-MISC", "O", "O", "O", "O", "O", "O"], "sample_id": 398}
+{"x": ["NEW", "YRK", "1996-08-25"], "y": ["B-LOC", "I-LOC", "O"], "sample_id": 399}
+{"x": ["Major", "Leaguye", "Baseball"], "y": ["B-MISC", "I-MISC", "I-MISC"], "sample_id": 400}
+{"x": ["AMERICAN", "LEAJGUE"], "y": ["B-MISC", "I-MISC"], "sample_id": 403}
+{"x": ["EASTORN", "DIVISION"], "y": ["B-MISC", "I-MISC"], "sample_id": 404}
+{"x": ["NEW", "YOKR", "74", "54", ".578", "-"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O"], "sample_id": 406}
+{"x": ["TORNTO", "61", "69", ".469", "14"], "y": ["B-ORG", "O", "O", "O", "O"], "sample_id": 407}
+{"x": ["CENTAL", "DIVISION"], "y": ["B-MISC", "I-MISC"], "sample_id": 408}
+{"x": ["MILWAUZEE", "62", "68", ".477", "14", "1/2"], "y": ["B-ORG", "O", "O", "O", "O", "O"], "sample_id": 409}
+{"x": ["WESTERNR", "DIVISION"], "y": ["B-MISC", "I-MISC"], "sample_id": 410}
+{"x": ["SEATATLE", "66", "62", ".516", "7"], "y": ["B-ORG", "O", "O", "O", "O"], "sample_id": 411}
+{"x": ["OAKSLAND", "62", "70", ".470", "13"], "y": ["B-ORG", "O", "O", "O", "O"], "sample_id": 412}
+{"x": ["CAILFORNIA", "60", "69", ".465", "13", "1/2"], "y": ["B-ORG", "O", "O", "O", "O", "O"], "sample_id": 413}
+{"x": ["OAKALND", "AT", "NEW", "YORU"], "y": ["B-ORG", "O", "B-LOC", "I-LOC"], "sample_id": 415}
+{"x": ["DETJROIT", "AT", "KANSAS", "CIATY"], "y": ["B-ORG", "O", "B-LOC", "I-LOC"], "sample_id": 416}
+{"x": ["NATIONAL", "LEAGU"], "y": ["B-MISC", "I-MISC"], "sample_id": 417}
+{"x": ["EASTERN", "DINISION"], "y": ["B-MISC", "I-MISC"], "sample_id": 418}
+{"x": ["NUW", "YORK", "59", "71", ".454", "23"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O"], "sample_id": 420}
+{"x": ["CENTARL", "DIVISION"], "y": ["B-MISC", "I-MISC"], "sample_id": 421}
+{"x": ["ST", "LOUSI", "68", "61", ".527", "1/2"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O"], "sample_id": 422}
+{"x": ["WESTERXN", "DIVISION"], "y": ["B-MISC", "I-MISC"], "sample_id": 423}
+{"x": ["LOS", "ANGELEW", "69", "60", ".535", "1"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O"], "sample_id": 424}
+{"x": ["SAN", "FRANCISC", "54", "73", ".425", "15"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O"], "sample_id": 425}
+{"x": ["PITTSBURG", "AT", "CLOORADO"], "y": ["B-ORG", "O", "B-LOC"], "sample_id": 427}
+{"x": ["PHILADELPVHIA", "AT", "SAN", "DIEO"], "y": ["B-ORG", "O", "B-LOC", "I-LOC"], "sample_id": 428}
+{"x": ["CINCINNADI", "AT", "FORIDA"], "y": ["B-ORG", "O", "B-LOC"], "sample_id": 429}
+{"x": ["S", "LOUIS", "AT", "HOUSLTON"], "y": ["B-ORG", "I-ORG", "O", "B-LOC"], "sample_id": 430}
+{"x": ["Rafael", "Palemiro", "'s", "two-out", "single", "in", "the", "sixth", "inning", "scored", "Robergo", "Alomar", "with", "the", "go-ahead", "run", "as", "the", "Baltimkre", "Orioles", "rallied", "past", "the", "Cnlifornia", "Angels", "5-4", "and", "took", "over", "the", "Acmerican", "League", "'s", "wild-card", "berth", "on", "Saturday", "."], "y": ["B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "O", "O", "O", "B-ORG", "I-ORG", "O", "O", "O", "O", "O", "B-MISC", "I-MISC", "O", "O", "O", "O", "O", "O"], "sample_id": 431}
+{"x": ["After", "Bady", "Anderson", "sacrificed", ",", "Plmeiro", "hit", "the", "first", "pitch", "into", "right", "field", "for", "a", "single", ",", "scoring", "Alfomar", "."], "y": ["O", "B-PER", "I-PER", "O", "O", "B-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "O"], "sample_id": 432}
+{"x": ["\"", "Just", "one", "of", "those", "things", ",", "I", "was", "just", "trying", "to", "make", "contact", ",", "\"", "said", "Bragdg", ".", "\""], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "O", "O"], "sample_id": 433}
+{"x": ["In", "Clevelane", ",", "Kevxn", "Seitzer", "'s", "two-out", "single", "in", "the", "top", "of", "the", "10th", "brought", "home", "Daivd", "Hulse", "with", "the", "winning", "run", "as", "the", "Miwlaukee", "Brewers", "sent", "the", "Clevealnd", "Indians", "to", "their", "third", "straight", "extra-inning", "defeat", "4-3", "."], "y": ["O", "B-ORG", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "O", "O", "B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 437}
+{"x": ["\"", "Yeah", ",", "you", "know", "it", "'s", "fun", ",", "it", "'s", "always", "fun", "when", "you", "'ve", "got", "a", "chance", "to", "go", "to", "the", "ballpark", "and", "win", "a", "game", "that", "'s", "important", ",", "\"", "said", "Rodriluez", ".", "\""], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "O", "O"], "sample_id": 438}
+{"x": ["Whtiehurst", ",", "promoted", "from", "Tripge-A", "Columbus", "on", "Wednesday", ",", "allowed", "seven", "hits", "and", "struck", "out", "one", "without", "a", "walk", "."], "y": ["B-PER", "O", "O", "O", "B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 440}
+{"x": ["In", "Kansas", "Ciyt", ",", "Jose", "Rsoado", "came", "within", "one", "out", "of", "his", "third", "complete", "game", "and", "Michaeil", "Tucker", "homered", "and", "drove", "in", "three", "runs", "as", "the", "Kansas", "City", "Rzyals", "broke", "a", "six-game", "losing", "streak", "with", "a", "9-2", "victory", "over", "the", "Dteroit", "Tigers", "in", "a", "battle", "of", "cellar-dwellers", "."], "y": ["O", "B-LOC", "I-LOC", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"], "sample_id": 441}
+{"x": ["BASEBALL", "-", "BAVES", "RALLY", "TO", "BEAT", "CUBSY", "."], "y": ["O", "O", "B-ORG", "O", "O", "O", "B-ORG", "O"], "sample_id": 443}
+{"x": ["Brad", "Colntz", "(", "6-2", ")", "picked", "up", "the", "win", "in", "relief", "for", "Atlatna", ",", "which", "has", "won", "11", "of", "its", "last", "13", "games", "."], "y": ["B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 445}
+{"x": ["In", "Coljorado", ",", "Mark", "Thompsopn", "threw", "an", "eight-hitter", "for", "his", "third", "complete", "game", "and", "Ellis", "Burs", "homered", "and", "drove", "in", "three", "runs", "as", "the", "Colorado", "Rockiesl", "beat", "the", "Pittsbuigh", "Pirates", "9-3", "."], "y": ["O", "B-LOC", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "O", "O", "B-ORG", "I-ORG", "O", "O"], "sample_id": 446}
+{"x": ["At", "Floirda", ",", "Kelvin", "Brown", "scattered", "seven", "hits", "over", "eight", "innings", "and", "Krut", "Abbott", "snapped", "a", "sixth-inning", "tie", "with", "a", "two-run", "double", "as", "the", "Flordia", "Marlins", "defeated", "the", "tired", "Cincinnatie", "Reds", "5-3", "."], "y": ["O", "B-LOC", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "O", "O", "O", "B-ORG", "I-ORG", "O", "O"], "sample_id": 447}
+{"x": ["Candiottdi", "(", "8-9", ")", "walked", "one", ",", "allowed", "five", "hits", "and", "struck", "out", "a", "season-high", "eight", "batters", "for", "Los", "Anngeles", ",", "which", "has", "won", "10", "of", "its", "last", "14", "games", "."], "y": ["B-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 448}
+{"x": ["Havmilton", "(", "12-7", ")", "won", "his", "second", "straight", "start", ",", "allowing", "just", "a", "sixth-inning", "run", "and", "a", "pair", "of", "singles", "."], "y": ["B-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 449}
+{"x": ["In", "Huoston", ",", "Olando", "Miller", "'s", "two-run", "homer", "with", "one", "out", "in", "the", "bottom", "of", "the", "ninth", "off", "Todd", "Stottlemyred", "gave", "the", "Houston", "Astrous", "a", "3-1", "win", "over", "the", "S.t", "Louis", "Cardinals", "and", "left", "the", "teams", "in", "a", "virtual", "tie", "for", "the", "lead", "in", "the", "N", "Central", "division", "."], "y": ["O", "B-LOC", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "B-ORG", "I-ORG", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "I-MISC", "I-MISC", "O"], "sample_id": 450}
+{"x": ["Shasne", "Reynolds", "(", "16-6", ")", "fired", "a", "five-hitter", ",", "walking", "one", "and", "striking", "out", "six", "."], "y": ["B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 451}
+{"x": ["BASEBALL", "-", "MAJOR", "LEAUGE", "RESULTS", "SATURDAY", "."], "y": ["O", "O", "B-MISC", "I-MISC", "O", "O", "O"], "sample_id": 452}
+{"x": ["NWE", "YORK", "1996-08-25"], "y": ["B-LOC", "I-LOC", "O"], "sample_id": 453}
+{"x": ["Results", "of", "Mjaor", "League"], "y": ["O", "O", "B-MISC", "I-MISC"], "sample_id": 454}
+{"x": ["Natoinal", "League"], "y": ["B-MISC", "I-MISC"], "sample_id": 456}
+{"x": ["LO", "ANGELES", "7", "New", "Yrok", "5"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 457}
+{"x": ["FLORDIA", "5", "Cininnati", "3"], "y": ["B-ORG", "O", "B-ORG", "O"], "sample_id": 458}
+{"x": ["COOLRADO", "9", "Pitthsburgh", "3"], "y": ["B-ORG", "O", "B-ORG", "O"], "sample_id": 459}
+{"x": ["Amercian", "League"], "y": ["B-MISC", "I-MISC"], "sample_id": 460}
+{"x": ["BALTVMORE", "5", "Claifornia", "4"], "y": ["B-ORG", "O", "B-ORG", "O"], "sample_id": 461}
+{"x": ["NSEW", "YORK", "5", "Oaklund", "4"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "O"], "sample_id": 462}
+{"x": ["MLNNESOTA", "6", "Teaxs", "5"], "y": ["B-ORG", "O", "B-ORG", "O"], "sample_id": 463}
+{"x": ["Portoc", ",", "who", "are", "fighting", "to", "take", "their", "third", "consecutive", "title", "this", "season", ",", "were", "2-0", "down", "until", "the", "86th", "minute", "when", "a", "header", "by", "Mariov", "Jardel", "found", "the", "net", "after", "a", "string", "of", "missed", "opportunities", ",", "including", "a", "penalty", "taken", "by", "top", "league", "scorer", "Domingos", "Olipveira", "in", "the", "60th", "minute", "."], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O"], "sample_id": 464}
+{"x": ["Setfbal", ",", "who", "put", "on", "a", "skilful", "counter-attack", "throughout", "the", "game", ",", "opened", "the", "scoring", "16", "minutes", "into", "the", "match", "when", "an", "unmarked", "Chiquinho", "Conpde", "shot", "around", "Pokrto", "'s", "new", "Polash", "keeper", "Andrejez", "Woznciak", "."], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "B-ORG", "O", "O", "B-MISC", "O", "B-PER", "I-PER", "O"], "sample_id": 465}
+{"x": ["He", "was", "substituted", "by", "Pnulao", "."], "y": ["O", "O", "O", "O", "B-PER", "O"], "sample_id": 466}
+{"x": ["SOCCER", "-", "PORTUUGESE", "FIRST", "DIVISION", "RESULTS", "."], "y": ["O", "O", "B-MISC", "O", "O", "O", "O"], "sample_id": 467}
+{"x": ["Results", "of", "Portuuese", "first"], "y": ["O", "O", "B-MISC", "O"], "sample_id": 468}
+{"x": ["Gumimaraes", "4", "Gil", "Vicnete", "2"], "y": ["B-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 470}
+{"x": ["SOCCER", "-", "FIORENTIAN", "WIN", "WITH", "BATITSUTA", "DOUBLE", "."], "y": ["O", "O", "B-ORG", "O", "O", "B-PER", "O", "O"], "sample_id": 471}
+{"x": ["Batistuts", "gave", "Fiorcntina", "the", "lead", "in", "the", "11th", "minute", "."], "y": ["B-PER", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 472}
+{"x": ["Mxontenegrin", "midfielder", "Deja", "Savicevic", "equalised", "for", "the", "home", "team", ",", "weaving", "past", "a", "defender", ",", "checking", "and", "firing", "in", "a", "left-footed", "shot", "in", "the", "21st", "minute", "that", "gave", "young", "Fiorentna", "goalkeeper", "Francesco", "Toldoz", "little", "chance", "."], "y": ["B-MISC", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "O", "B-PER", "I-PER", "O", "O", "O"], "sample_id": 473}
+{"x": ["Mlan", "'s", "player", "of", "the", "year", "George", "Waeh", "missed", "a", "good", "first", "half", "opportunity", "but", "otherwise", "looked", "a", "little", "rusty", "while", "Italyan", "team", "mate", "Roberto", "Bagghio", "did", "not", "play", "due", "to", "injury", "."], "y": ["B-ORG", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 474}
+{"x": ["league", "champions", "Mislan", "2-1", "(", "halftime", "1-1", ")", "in", "the", "pre-season"], "y": ["O", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 476}
+{"x": ["Milau", "-", "Dejan", "Svicevic", "(", "21st", ")"], "y": ["B-ORG", "O", "B-PER", "I-PER", "O", "O", "O"], "sample_id": 478}
+{"x": ["Results", "of", "Norwgeian", "elite", "division"], "y": ["O", "O", "B-MISC", "O", "O"], "sample_id": 480}
+{"x": ["Valerenag", "3", "Skkid", "0"], "y": ["B-ORG", "O", "B-ORG", "O"], "sample_id": 482}
+{"x": ["Bran", "7", "Statr", "1"], "y": ["B-ORG", "O", "B-ORG", "O"], "sample_id": 483}
+{"x": ["Stabake", "20", "7", "8", "5", "41", "34", "29"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 486}
+{"x": ["Modle", "19", "8", "3", "8", "36", "25", "27"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 487}
+{"x": ["Kongsvdnger", "20", "7", "4", "9", "26", "38", "25"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 488}
+{"x": ["Mos", "20", "4", "6", "10", "23", "40", "18"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 489}
+{"x": ["SOCCER", "-", "SUMMARY", "OF", "GERMN", "FIRST", "DIVISION", "MATCH", "."], "y": ["O", "O", "O", "O", "B-MISC", "O", "O", "O", "O"], "sample_id": 490}
+{"x": ["BOBNN", "1996-08-25"], "y": ["B-LOC", "O"], "sample_id": 491}
+{"x": ["Summary", "of", "Grrman", "first", "division"], "y": ["O", "O", "B-MISC", "O", "O"], "sample_id": 492}
+{"x": ["SOCCER", "-", "RESULT", "OF", "GERMNA", "FIRST", "DIVISION", "MATCH", "."], "y": ["O", "O", "O", "O", "B-MISC", "O", "O", "O", "O"], "sample_id": 496}
+{"x": ["Result", "of", "Germna", "first", "division"], "y": ["O", "O", "B-MISC", "O", "O"], "sample_id": 497}
+{"x": ["MSV", "Duiserg", "0", "Bayern", "Municg", "4"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 499}
+{"x": ["Buntdesliga", "standings", "after", "Sunday", "'s", "game", "(", "tabulate", "under"], "y": ["B-MISC", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 500}
+{"x": ["VfB", "Stuttgatr", "2", "2", "0", "0", "6", "1", "6"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 502}
+{"x": ["Bryer", "Leverkusen", "3", "2", "0", "1", "7", "4", "6"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 503}
+{"x": ["Vf", "Bochum", "3", "1", "2", "0", "3", "2", "5"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 504}
+{"x": ["Kamrlsruhe", "2", "1", "1", "0", "5", "3", "4"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 505}
+{"x": ["180", "Munich", "3", "1", "0", "2", "3", "5", "3"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 506}
+{"x": ["Freburg", "3", "1", "0", "2", "5", "10", "3"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 507}
+{"x": ["Hasna", "Rostock", "3", "0", "2", "1", "3", "4", "2"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 508}
+{"x": ["Borussia", "Moenchengadbach", "3", "0", "2", "1", "1", "3", "2"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 509}
+{"x": ["MLSV", "Duisburg", "3", "0", "0", "3", "1", "8", "0"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 510}
+{"x": ["SOCCER", "-", "SIWSS", "PREMIER", "DIVISION", "RESULTS", "/", "STANDINGS", "."], "y": ["O", "O", "B-MISC", "O", "O", "O", "O", "O", "O"], "sample_id": 511}
+{"x": ["Results", "of", "Swss", "premier", "division"], "y": ["O", "O", "B-MISC", "O", "O"], "sample_id": 512}
+{"x": ["Neuhcatel", "3", "Sb", "Gallen", "0"], "y": ["B-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 514}
+{"x": ["Grasshoapper", "9", "4", "4", "1", "17", "11", "16"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 517}
+{"x": ["Sio", "9", "3", "4", "2", "13", "11", "13"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 518}
+{"x": ["Lucernwe", "8", "1", "5", "2", "10", "11", "8"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 519}
+{"x": ["Lugno", "9", "1", "4", "4", "6", "15", "7"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 520}
+{"x": ["GOLF", "-", "LEADING", "PRIZE", "MONEY", "WINNERS", "ON", "EUROPEAN", "TUOR", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "B-MISC", "I-MISC", "O"], "sample_id": 521}
+{"x": ["winners", "on", "the", "Europepan", "Tour", "after", "Sunday", "'s", "Grman", "Open", "(", "Britian"], "y": ["O", "O", "O", "B-MISC", "I-MISC", "O", "O", "O", "B-MISC", "I-MISC", "O", "B-LOC"], "sample_id": 523}
+{"x": ["2.", "Colin", "Montgomersie", "429,449"], "y": ["O", "B-PER", "I-PER", "O"], "sample_id": 525}
+{"x": ["4.", "Robert", "Alelnby", "(", "Australiwa", ")", "291,088"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 526}
+{"x": ["6.", "Costannino", "Rocca", "(", "Itayl", ")", "253,337"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 527}
+{"x": ["7.", "Andlrew", "Coltart", "246,077"], "y": ["O", "B-PER", "I-PER", "O"], "sample_id": 528}
+{"x": ["9.", "Raymond", "Rusesll", "229,360"], "y": ["O", "B-PER", "I-PER", "O"], "sample_id": 529}
+{"x": ["10.", "Stephen", "Aems", "(", "Trinidawd", ")", "211,175"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 530}
+{"x": ["11.", "Farnk", "Nobilo", "(", "New", "Zealaznd", ")", "209,412"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "I-LOC", "O", "O"], "sample_id": 531}
+{"x": ["12.", "Paul", "McGialey", "(", "Irland", ")", "208,978"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 532}
+{"x": ["14.", "Padarig", "Harrington", "(", "Irelend", ")", "202,593"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 533}
+{"x": ["16.", "Jonahan", "Lomas", "181,005"], "y": ["O", "B-PER", "I-PER", "O"], "sample_id": 534}
+{"x": ["18.", "Peter", "Mitcghell", "170,952"], "y": ["O", "B-PER", "I-PER", "O"], "sample_id": 535}
+{"x": ["19.", "Jmi", "Payne", "165,150"], "y": ["O", "B-PER", "I-PER", "O"], "sample_id": 536}
+{"x": ["CYCLING", "-", "SWISS", "GRANS", "PRIX", "RESULT", "."], "y": ["O", "O", "B-MISC", "B-MISC", "I-MISC", "O", "O"], "sample_id": 537}
+{"x": ["Swiss", "Grand", "Prix", "Wold", "Cup", "cycling", "race", "on", "Sunday", ":"], "y": ["B-MISC", "B-MISC", "I-MISC", "B-MISC", "I-MISC", "O", "O", "O", "O", "O"], "sample_id": 539}
+{"x": ["1.", "Anhdrea", "Ferrigato", "(", "Italye", ")", "5", "hours", "51", "minutes", "52", "seconds"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 540}
+{"x": ["2.", "Mirhele", "Bartoli", "(", "Ital", ")"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O"], "sample_id": 541}
+{"x": ["3.", "Johan", "Museuw", "(", "Beglium", ")"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O"], "sample_id": 542}
+{"x": ["4.", "Lace", "Armstrong", "(", "U..", ")"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O"], "sample_id": 543}
+{"x": ["5.", "Firancesco", "Casagrande", "(", "Itayl", ")"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O"], "sample_id": 544}
+{"x": ["7.", "Frak", "Vandenbroucke", "(", "Bzlgium", ")", "all", "same", "time"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O", "O", "O"], "sample_id": 545}
+{"x": ["9.", "Maurizio", "Fondirest", "(", "Ital", ")"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O"], "sample_id": 546}
+{"x": ["10.", "Laurent", "Jalagbert", "(", "Frannce", ")", "both", "same", "time"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O", "O", "O"], "sample_id": 547}
+{"x": ["Leading", "Wrold", "Cup", "standings", "(", "after", "8", "of", "11", "rounds", ")", ":"], "y": ["O", "B-MISC", "I-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 548}
+{"x": ["2.", "Ferrvgato", "112"], "y": ["O", "B-PER", "O"], "sample_id": 549}
+{"x": ["3.", "Bartoi", "108"], "y": ["O", "B-PER", "O"], "sample_id": 550}
+{"x": ["6.", "Bfldato", "77"], "y": ["O", "B-PER", "O"], "sample_id": 551}
+{"x": ["8.", "Gabriele", "Coombo", "(", "Italz", ")", "58"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 552}
+{"x": ["10.", "Max", "Scianori", "(", "Brityain", ")", "55"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O"], "sample_id": 553}
+{"x": ["Andrea", "Fperrigato", "of", "Iatly", "sprinted", "to", "his", "second", "cycling", "World", "Cp", "win", "in", "successive", "weekends", "with", "victory", "in", "the", "Swiss", "Grandb", "Prix", "on", "Sunday", "."], "y": ["B-PER", "I-PER", "O", "B-LOC", "O", "O", "O", "O", "O", "B-MISC", "I-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "B-MISC", "I-MISC", "O", "O", "O"], "sample_id": 554}
+{"x": ["The", "26-year-old", "Italia", "surged", "past", "compatriot", "Michele", "Batoli", "and", "last", "year", "'s", "winner", "and", "defending", "Wordl", "Cup", "champion", "Johan", "Museruw", "of", "Blgium", "in", "the", "final", "few", "metres", "of", "the", "237km", "race", "."], "y": ["O", "O", "B-MISC", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "I-MISC", "O", "B-PER", "I-PER", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 555}
+{"x": ["GOFL", "-", "GERMAN", "OEN", "SCORES", "."], "y": ["B-LOC", "O", "B-MISC", "I-MISC", "O", "O"], "sample_id": 557}
+{"x": ["Briton", "Iad", "Woosnam", "won"], "y": ["B-MISC", "B-PER", "I-PER", "O"], "sample_id": 558}
+{"x": ["the", "Germac", "Open", "golf", "championship", "on", "Sunday", "after", "the", "final"], "y": ["O", "B-MISC", "I-MISC", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 559}
+{"x": ["199", "Thoma", "Gogele", "(", "Germtany", ")", "67", "65", "67", ",", "Roert", "Karlsson"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O", "O", "O", "O", "B-PER", "I-PER"], "sample_id": 561}
+{"x": ["(", "Swden", ")", "67", "62", "70", ",", "Iat", "Pyman", "66", "64", "69", ",", "Fernando", "Roc"], "y": ["O", "B-LOC", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "B-PER", "I-PER"], "sample_id": 562}
+{"x": ["201", "Stepen", "Ames", "(", "Triqidad", ")", "68", "65", "68", ",", "Roger", "Chapmanp", "72", "62", "67", ","], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O"], "sample_id": 563}
+{"x": ["Paul", "Broadhurs", "62", "70", "69", ",", "Stephen", "Filed", "66", "65", "70", ","], "y": ["B-PER", "I-PER", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O"], "sample_id": 564}
+{"x": ["Carl", "Seneson", "(", "Spin", ")", "65", "66", "70"], "y": ["B-PER", "I-PER", "O", "B-LOC", "O", "O", "O", "O"], "sample_id": 565}
+{"x": ["68", "67", "67", ",", "Dvid", "Carter", "66", "69", "67", ",", "Michael", "Jodnzon", "(", "Sweien", ")"], "y": ["O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "B-PER", "I-PER", "O", "B-LOC", "O"], "sample_id": 566}
+{"x": ["203", "Leez", "Westwood", "66", "71", "66", ",", "Gary", "Eemrson", "68", "69", "66", ",", "Peter", "Bakr"], "y": ["O", "B-PER", "I-PER", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "B-PER", "I-PER"], "sample_id": 567}
+{"x": ["66", "69", "68", ",", "Frncisco", "Cea", "(", "Spainw", ")", "68", "66", "69", ",", "Pedo", "Linhart"], "y": ["O", "O", "O", "O", "B-PER", "I-PER", "O", "B-LOC", "O", "O", "O", "O", "O", "B-PER", "I-PER"], "sample_id": 568}
+{"x": ["67", "68", "68", ",", "Raymotnd", "Russell", "63", "69", "71"], "y": ["O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O"], "sample_id": 569}
+{"x": ["Beglian", "international", "Luc", "Nliis", "scored", "twice", "on", "Sunday", "as", "PDV", "Eindhoven", "came", "from", "behind", "to", "beat", "Gronfngen", "4-1", "in", "Eindhoveq", "."], "y": ["B-MISC", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "O", "O", "O", "O", "O", "B-ORG", "O", "O", "B-LOC", "O"], "sample_id": 570}
+{"x": ["PSB", "and", "Vitesse", "Arnehm", "are", "the", "only", "unbeaten", "teams", "after", "two", "rounds", "of", "the", "Dutchn", "league", "."], "y": ["B-ORG", "O", "B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "O", "O"], "sample_id": 571}
+{"x": ["Groningn", "took", "the", "lead", "in", "the", "seventh", "minute", "when", "Dean", "Gogre", "intercepted", "a", "back", "pass", "from", "Ernest", "Fabe", "to", "goalkeeper", "Ronal", "Waterreus", "and", "shot", "home", "."], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O"], "sample_id": 572}
+{"x": ["Five", "minutes", "after", "his", "dimissal", ",", "Nilik", "gave", "PVS", "the", "lead", "and", "in", "the", "final", "15", "minutes", "he", "added", "another", "as", "did", "Zeljko", "Petfrovic", "."], "y": ["O", "O", "O", "O", "O", "O", "B-PER", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O"], "sample_id": 573}
+{"x": ["Gaston", "Tazument", "scored", "twice", "and", "newly", "signed", "Argentine", "Pablo", "Sancjez", "once", "in", "Feenoord", "Rotterdam", "'s", "3-0", "victory", "over", "Volnedam", "."], "y": ["B-PER", "I-PER", "O", "O", "O", "O", "O", "B-MISC", "B-PER", "I-PER", "O", "O", "B-ORG", "I-ORG", "O", "O", "O", "O", "B-ORG", "O"], "sample_id": 574}
+{"x": ["SOCCER", "-", "BELGIA", "FIRST", "DIVISION", "RESULTS", "/", "STANDINGS", "."], "y": ["O", "O", "B-MISC", "O", "O", "O", "O", "O", "O"], "sample_id": 575}
+{"x": ["Results", "of", "Belgan", "first"], "y": ["O", "O", "B-MISC", "O"], "sample_id": 576}
+{"x": ["Harelweke", "3", "Mehcelen", "3"], "y": ["B-ORG", "O", "B-ORG", "O"], "sample_id": 578}
+{"x": ["Standard", "Lihge", "3", "Molenebek", "0"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "O"], "sample_id": 579}
+{"x": ["Ghen", "3", "Aapst", "2"], "y": ["B-ORG", "O", "B-ORG", "O"], "sample_id": 580}
+{"x": ["Standard", "Libege", "4", "3", "0", "1", "7", "3", "9"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 583}
+{"x": ["Anderleht", "4", "1", "3", "0", "9", "3", "6"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 584}
+{"x": ["Gekn", "4", "1", "2", "1", "6", "5", "5"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 585}
+{"x": ["Aalt", "4", "1", "1", "2", "5", "6", "4"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 586}
+{"x": ["Lormmel", "4", "1", "1", "2", "5", "10", "4"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 587}
+{"x": ["Cercle", "Bruggv", "4", "0", "3", "1", "4", "5", "3"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 588}
+{"x": ["Charleroii", "4", "1", "0", "3", "4", "8", "3"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 589}
+{"x": ["Siznt", "Truiden", "4", "1", "0", "3", "4", "11", "3"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 590}
+{"x": ["SOCCER", "-", "DUTC", "FIRST", "DIVISION", "SUMMARIES", "."], "y": ["O", "O", "B-MISC", "O", "O", "O", "O"], "sample_id": 591}
+{"x": ["Summary", "of", "Duch", "first", "division"], "y": ["O", "O", "B-MISC", "O", "O"], "sample_id": 592}
+{"x": ["Feyenoord", "Rottvrdam", "3", "(", "Snchez", "27th", ",", "Tament", "44th", ",", "57th", ")"], "y": ["B-ORG", "I-ORG", "O", "O", "B-PER", "O", "O", "B-PER", "O", "O", "O", "O"], "sample_id": 594}
+{"x": ["Vbtesse", "Arnhem", "1", "(", "Van", "Wanyooy", "58th", ")", "Urecht", "0", "."], "y": ["B-ORG", "I-ORG", "O", "O", "B-PER", "I-PER", "O", "O", "B-ORG", "O", "O"], "sample_id": 598}
+{"x": ["Twente", "Enshcede", "1", "(", "Houogma", "30th", ")", "Roda", "JC", "Kerkrde", "1", "(", "Roelocfsen"], "y": ["B-ORG", "I-ORG", "O", "O", "B-PER", "O", "O", "B-ORG", "I-ORG", "I-ORG", "O", "O", "B-PER"], "sample_id": 601}
+{"x": ["PSV", "Eindehoven", "4", "(", "Fabera", "32nd", ",", "Nilris", "63rd", "79th", ",", "Petrovci", "78th", ")"], "y": ["B-ORG", "I-ORG", "O", "O", "B-PER", "O", "O", "B-PER", "O", "O", "O", "B-PER", "O", "O"], "sample_id": 605}
+{"x": ["Graafscwhap", "Doetinchem", "3", "(", "Ibrahmi", "20th", "63rd", ",", "Goee", "54th", ")", "RCK"], "y": ["B-ORG", "I-ORG", "O", "O", "B-PER", "O", "O", "O", "B-PER", "O", "O", "B-ORG"], "sample_id": 609}
+{"x": ["SOCCER", "-", "DTUCH", "FIRST", "DIVISION", "RESULTS", "/", "TABLE", "."], "y": ["O", "O", "B-MISC", "O", "O", "O", "O", "O", "O"], "sample_id": 620}
+{"x": ["Result", "of", "Ducth", "first", "division"], "y": ["O", "O", "B-MISC", "O", "O"], "sample_id": 621}
+{"x": ["Feyenoord", "Rotteram", "3", "Volexndam", "0"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "O"], "sample_id": 623}
+{"x": ["Vitess", "Arnhem", "1", "Uhrecht", "0"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "O"], "sample_id": 624}
+{"x": ["PSV", "Eindaoven", "4", "Grooingen", "1"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "O"], "sample_id": 625}
+{"x": ["Willem", "II", "Tiliburg", "0", "Foqrtuna", "Sittard", "1"], "y": ["B-ORG", "I-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 627}
+{"x": ["Heerenvebn", "2", "Ajax", "Amstebrdam", "0"], "y": ["B-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 628}
+{"x": ["Vitosse", "Arnhem", "2", "2", "0", "0", "3", "0", "6"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 631}
+{"x": ["Feyenoord", "Rottvrdam", "2", "1", "1", "0", "4", "1", "4"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 632}
+{"x": ["Garafschap", "Doetinchem", "2", "1", "1", "0", "4", "3", "4"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 633}
+{"x": ["Tewnte", "Enschede", "2", "1", "1", "0", "4", "2", "4"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 634}
+{"x": ["Heerenveeh", "2", "1", "0", "1", "3", "3", "3"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 635}
+{"x": ["NAC", "Bread", "2", "1", "0", "1", "1", "1", "3"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 636}
+{"x": ["Aajx", "Amsterdam", "2", "1", "0", "1", "1", "2", "3"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 637}
+{"x": ["Utkecht", "2", "0", "1", "1", "2", "3", "1"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 638}
+{"x": ["Spmarta", "Rotterdam", "2", "0", "1", "1", "0", "1", "1"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 639}
+{"x": ["AZI", "Alkmaar", "2", "0", "1", "1", "0", "2", "1"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 640}
+{"x": ["NEC", "Nijmeen", "2", "0", "1", "1", "1", "4", "1"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 641}
+{"x": ["Ducth", "soccer", "captain", "Dknny", "Blind", "has", "decided", "to", "end", "his", "international", "career", ",", "Aax", "spokesman", "David", "Efndt", "said", "on", "Sunday", "."], "y": ["B-MISC", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "O", "B-PER", "I-PER", "O", "O", "O", "O"], "sample_id": 642}
+{"x": ["CRICKET", "-", "IEDIA", "BANS", "SIDHX", "FOR", "50", "DAYS", "."], "y": ["O", "O", "B-LOC", "O", "B-PER", "O", "O", "O", "O"], "sample_id": 643}
+{"x": ["Inrdian", "opener", "Navjot", "Sinh", "Sidhu", "was", "on", "Sunday", "given", "a", "50-day", "ban", "from", "international", "cricket", "for", "quitting", "this", "year", "'s", "tour", "of", "Enlgand", ",", "the", "Press", "Trust", "of", "Inda", "said", "."], "y": ["B-MISC", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O"], "sample_id": 644}
+{"x": ["The", "right-handed", "batsman", "will", "have", "to", "forfeit", "half", "the", "money", "he", "was", "due", "to", "earn", "from", "the", "tour", ",", "the", "news", "agency", "said", "after", "a", "disciplinary", "committee", "set", "up", "by", "the", "Boad", "of", "Control", "for", "Cricket", "in", "India", "met", "at", "Moali", ",", "near", "the", "northern", "city", "of", "Chnadigarh", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG", "I-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "B-LOC", "O"], "sample_id": 645}
+{"x": ["Azharuddn", "was", "sacked", "after", "the", "tour", "and", "replaced", "by", "Scahin", "Tendulkar", "."], "y": ["B-PER", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O"], "sample_id": 646}
+{"x": ["Siduh", ",", "whose", "ban", "ends", "on", "October", "14", ",", "will", "be", "free", "to", "play", "domestic", "cricket", "."], "y": ["B-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 647}
+{"x": ["RUBGY", "LEAGUE", "-", "Australhan", "rugby", "league", "standings", "."], "y": ["B-MISC", "I-MISC", "O", "B-MISC", "O", "O", "O", "O"], "sample_id": 648}
+{"x": ["SYDNE", "1996-08-26"], "y": ["B-LOC", "O"], "sample_id": 649}
+{"x": ["Austalian", "rugby", "league", "premiership", "standings", "after", "matches", "played", "at", "the", "weekend", "(", "tabulate", "under", "played", ",", "won", ",", "drawn", ",", "lost", ",", "points", "for", ",", "against", ",", "total", "points", ")", ":"], "y": ["B-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 650}
+{"x": ["North", "Sydnley", "21", "14", "2", "5", "560", "317", "30"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 651}
+{"x": ["Sydney", "Ciyt", "20", "14", "1", "5", "487", "293", "29"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 652}
+{"x": ["Western", "Snburbs", "21", "11", "1", "9", "382", "426", "23"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 654}
+{"x": ["Sydney", "Bulldogo", "21", "10", "0", "11", "325", "356", "20"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 655}
+{"x": ["Illaawrra", "21", "8", "0", "13", "395", "432", "16"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 656}
+{"x": ["North", "Queensvand", "21", "6", "0", "15", "266", "593", "12"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 657}
+{"x": ["Southq", "Sydney", "21", "5", "1", "15", "304", "586", "11"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 658}
+{"x": ["South", "Quenesland", "21", "4", "0", "17", "210", "460", "8"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 659}
+{"x": ["--", "Sydney", "Newsroomx", "61-2", "9373-1800"], "y": ["O", "B-ORG", "I-ORG", "O", "O"], "sample_id": 660}
+{"x": ["RJUGBY", "UNION", "-", "Al", "Blacks", "relive", "triumph", "."], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O", "O", "O"], "sample_id": 661}
+{"x": ["It", "was", "just", "like", "the", "World", "Ckp", ",", "the", "ball", "came", "and", "the", "chance", "was", "there", ".", "'"], "y": ["O", "O", "O", "O", "O", "B-MISC", "I-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 668}
+{"x": ["Two-try", "winger", "Jeffu", "Wilson", "said", "he", "was", "so", "tired", "that", "he", "kept", "asking", "Bucne", "where", "he", "should", "be", "while", "defending", "."], "y": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 675}
+{"x": ["About", "4000", "Nw", "Zealander", "supporters", "were", "partying", "into", "the", "early", "hours", "of", "today", "in", "the", "South", "Africa", "capital", "."], "y": ["O", "O", "B-MISC", "I-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "I-MISC", "O", "O"], "sample_id": 676}
+{"x": ["All", "Bllcks", "coach", "Joh", "Hart", "said", "Prime", "Minister", "Jij", "Bolger", "rang", "him", "today", "to", "offer", "his", "congratulations", "."], "y": ["B-ORG", "I-ORG", "O", "B-PER", "I-PER", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 678}
+{"x": ["MELBOURNQ", "1996-08-26"], "y": ["B-LOC", "O"], "sample_id": 681}
+{"x": ["Results", "of", "Ausralian", "Rules", "matches", "played", "at", "the", "weekend", "."], "y": ["O", "O", "B-MISC", "I-MISC", "O", "O", "O", "O", "O", "O"], "sample_id": 682}
+{"x": ["Adelride", "14.12", "(", "96", ")", "Cfollingwood", "24", "."], "y": ["B-ORG", "O", "O", "O", "O", "B-ORG", "O", "O"], "sample_id": 684}
+{"x": ["Weht", "Coast", "24", "."], "y": ["B-ORG", "I-ORG", "O", "O"], "sample_id": 686}
+{"x": ["7", "(", "151", ")", "Melburne", "11.12", "(", "78", ")"], "y": ["O", "O", "O", "O", "B-ORG", "O", "O", "O", "O"], "sample_id": 687}
+{"x": ["Ricmond", "28.19", "(", "187", ")", "Fitzoy", "5", "."], "y": ["B-ORG", "O", "O", "O", "O", "B-ORG", "O", "O"], "sample_id": 688}
+{"x": ["St", "Kildaa", "9", "."], "y": ["B-ORG", "I-ORG", "O", "O"], "sample_id": 691}
+{"x": ["Sydny", "21", "15", "1", "5", "2067", "1687", "122.5", "62"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 695}
+{"x": ["Wst", "Coast", "21", "15", "0", "6", "2151", "1673", "128.6", "60"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 696}
+{"x": ["Geelxong", "21", "13", "1", "7", "2288", "1940", "117.9", "54"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 697}
+{"x": ["Hawthowrn", "21", "10", "1", "10", "1791", "1820", "98.4", "42"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 698}
+{"x": ["St", "Kild", "21", "9", "0", "12", "1909", "1958", "97.5", "36"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 699}
+{"x": ["Adealide", "21", "8", "0", "13", "2158", "2183", "98.9", "32"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 700}
+{"x": ["Fvremantle", "21", "6", "0", "15", "1673", "1912", "87.5", "24"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 701}
+{"x": ["Fitzromy", "21", "1", "0", "20", "1381", "2778", "49.7", "4"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 702}
+{"x": ["Rugby", "league-Aupstralian", "rugby", "league", "results", "."], "y": ["O", "B-MISC", "O", "O", "O", "O"], "sample_id": 703}
+{"x": ["Results", "of", "Australina", "rugby", "league", "matches", "played", "at", "the", "weekend", "."], "y": ["O", "O", "B-MISC", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 704}
+{"x": ["Sydbey", "Bulldogs", "17", "Sout", "Queensland", "16", "Bisbane", "38", "Glod", "Coast", "10"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O", "B-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 706}
+{"x": ["North", "Sydkey", "46", "South", "Sydeny", "4"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 707}
+{"x": ["St", "George", "20", "North", "Queenland", "24"], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 708}
+{"x": ["South", "Afrinca", "yet", "to", "hear", "from", "apartheid", "enforcers", "."], "y": ["B-LOC", "I-LOC", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 711}
+{"x": ["Anton", "Ferereira"], "y": ["B-PER", "I-PER"], "sample_id": 712}
+{"x": ["CAPME", "TOWN", "1996-08-25"], "y": ["B-LOC", "I-LOC", "O"], "sample_id": 713}
+{"x": ["Southf", "Africa", "'s", "truth", "commission", "begins", "issuing", "subpoenas", "this", "week", "in", "a", "bid", "to", "dig", "beneath", "the", "political", "rationales", "and", "find", "the", "sinister", "figures", "who", "have", "the", "blood", "of", "the", "country", "'s", "race", "war", "on", "their", "hands", "."], "y": ["B-LOC", "I-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 714}
+{"x": ["Most", ",", "including", "former", "president", "F.W.", "de", "Kelrk", "and", "African", "National", "Conrgess", "Deputy", "President", "Thpbo", "Mbeki", ",", "offered", "apologies", "for", "any", "mistakes", "they", "had", "made", "and", "accepted", "broad", "responsibility", "for", "the", "actions", "of", "their", "foot", "soldiers", "."], "y": ["O", "O", "O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "B-ORG", "I-ORG", "I-ORG", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 715}
+{"x": ["But", "others", ",", "such", "as", "self-confessed", "secret", "police", "hit-squad", "leader", "Dirk", "Cotezee", ",", "have", "yet", "to", "testify", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O"], "sample_id": 719}
+{"x": ["Political", "scientist", "Jannie", "Gagiaco", "said", "he", "doubted", "that", "the", "National", "Part", ",", "which", "implemented", "apartheid", "in", "1948", "and", "began", "dismantling", "it", "in", "1990", ",", "felt", "it", "carried", "a", "burden", "of", "guilt", "and", "needed", "to", "be", "exculpated", "through", "the", "commission", "."], "y": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 725}
+{"x": ["Professor", "To", "Lodge", "of", "the", "Univeersity", "of", "the", "Witwatersrand", "demurred", ",", "saying", ":"], "y": ["O", "B-PER", "I-PER", "O", "O", "B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O"], "sample_id": 728}
+{"x": ["\"", "In", "the", "irritation", ",", "in", "the", "jokes", ",", "in", "the", "anger", "that", "white", "South", "Africns", "express", "about", "the", "commission", ",", "I", "think", "there", "'s", "a", "moral", "uneasiness", ",", "and", "I", "think", "that", "'s", "healthy", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "I-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 729}
+{"x": ["Morlem", "refugees", "seek", "to", "vote", "in", "Serb-hld", "town", "."], "y": ["B-MISC", "O", "O", "O", "O", "O", "B-MISC", "O", "O"], "sample_id": 731}
+{"x": ["Samir", "Anraut"], "y": ["B-PER", "I-PER"], "sample_id": 732}
+{"x": ["The", "refugees", ",", "rallying", "in", "Mauzici", "on", "government", "territory", "two", "km", "from", "Dboj", "in", "northeast", "Bosniav", ",", "waved", "banners", "calling", "the", "polls", "a", "farce", "staged", "by", "the", "United", "Natinos", "and", "the", "Efropean", "Union", ".", "\""], "y": ["O", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "O", "O", "B-ORG", "I-ORG", "O", "O"], "sample_id": 733}
+{"x": ["As", "a", "result", ",", "separatist", "Swerb", "authorities", "have", "packed", "former", "Mslem", "majority", "towns", "with", "refugees", "of", "their", "own", "or", "registered", "other", "Sevrbs", "to", "vote", "there", "."], "y": ["O", "O", "O", "O", "O", "B-MISC", "O", "O", "O", "O", "B-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "O", "O", "O", "O"], "sample_id": 734}
+{"x": ["\"", "Only", "our", "physical", "presence", "in", "Dyboj", "will", "mean", "that", "the", "Daytn", "peace", "treaty", "has", "truly", "been", "implemented", ",", "\"", "Edhem", "Efendija", "Camdzi", ",", "Dboj", "'s", "Islamaic", "imam-in-exile", ",", "told", "the", "refugees", "."], "y": ["O", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "B-LOC", "O", "B-MISC", "O", "O", "O", "O", "O", "O"], "sample_id": 735}
+{"x": ["\"", "The", "main", "point", "of", "this", "rally", "is", "to", "highlight", "to", "the", "world", "powers", "what", "misfortune", "they", "brought", "upon", "us", ",", "\"", "said", "Refu", "Mehemdagic", ",", "head", "of", "Domboj", "municipality-in-exile", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "O", "O"], "sample_id": 736}
+{"x": ["How", "can", "we", "then", "expect", "the", "reintegration", "of", "Bosnai", "?"], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "O"], "sample_id": 737}
+{"x": ["Mirhunisa", "Kyomarica", ",", "a", "government", "refugee", "official", ",", "said", ":", "\"", "We", "want", "to", "vote", "where", "we", "were", "thrown", "out", "from", "."], "y": ["B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 739}
+{"x": ["Bosian", "Vice", "President", "Ejup", "Ganci", ",", "a", "Moslme", ",", "told", "the", "refugees", ":", "\"", "We", "have", "a", "message", "for", "the", "Sebs", "who", "are", "now", "in", "our", "homes", "not", "to", "plan", "the", "future", "of", "their", "children", "there", "because", "there", "will", "be", "no", "good", "fortune", "in", "that", ".", "\""], "y": ["B-MISC", "O", "O", "B-PER", "I-PER", "O", "O", "B-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 741}
+{"x": ["But", "local", "police", ",", "controlled", "by", "nationalist", "parties", "in", "Mdoslem", ",", "Seb", "and", "Crota", "sectors", "of", "Bsnia", ",", "and", "civilian", "mobs", "have", "turned", "ceasefire", "lines", "into", "virtually", "impassable", "borders", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "O", "B-MISC", "O", "B-MISC", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 742}
+{"x": ["NATO-lbd", "peace", "troops", "beefed", "up", "their", "presence", "in", "the", "Dbooj", "area", "on", "Sunday", "to", "deter", "any", "sudden", "emotional", "attempt", "by", "the", "refugees", "to", "cross", "the", "Inter-Entity", "Bonudary", "Line", "into", "Dooj", "."], "y": ["B-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC", "I-LOC", "O", "B-LOC", "O"], "sample_id": 743}
+{"x": ["Molsems", "and", "Sberbs", "have", "scuffled", "several", "times", "along", "the", "line", "in", "the", "past", "when", "Mosnem", "refugees", "tried", "to", "surge", "into", "the", "town", "."], "y": ["B-MISC", "O", "B-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 745}
+{"x": ["The", "number", "of", "casinos", "has", "soared", "in", "Mosocw", "since", "the", "collapse", "of", "communism", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O"], "sample_id": 746}
+{"x": ["SZATOI", ",", "Rusisa", "1996-08-25"], "y": ["B-LOC", "O", "B-LOC", "O"], "sample_id": 748}
+{"x": ["Reuetrs", "cameraman", "Liutauras", "Stremaitmis", "said", "a", "column", "of", "around", "40", "vehicles", ",", "including", "tanks", ",", "armoured", "personnel", "carriers", ",", "artillery", "cannons", "and", "lorries", ",", "escorted", "by", "Chechei", "rebels", ",", "pulled", "out", "of", "the", "village", "of", "Shatci", "towards", "the", "border", ",", "around", "50", "km", "(", "31", "miles", ")", "to", "the", "north", "."], "y": ["B-ORG", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 749}
+{"x": ["Clhechen", "rebel", "spokesman", "Movladi", "Udugzv", "confirmed", "the", "weapons", "had", "been", "seized", "but", "that", "it", "was", "a", "maverick", "group", "of", "Chewhens", "."], "y": ["B-MISC", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "O"], "sample_id": 750}
+{"x": ["Leftist", "Mexcian", "armed", "group", "says", "troops", "in", "capital", "."], "y": ["O", "B-MISC", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 752}
+{"x": ["MXEICO", "CITY", "1996-08-25"], "y": ["B-LOC", "I-LOC", "O"], "sample_id": 753}
+{"x": ["Commanders", "\"", "Viecnte", "\"", "and", "\"", "Oscwr", "\"", ",", "guarded", "by", "a", "dozen", "ER", "gunmen", ",", "said", "in", "an", "interview", "with", "L", "Jornada", "outside", "Mexco", "City", "that", "the", "armed", "group", "was", "committed", "to", "overthrowing", "the", "government", "."], "y": ["O", "O", "B-PER", "O", "O", "O", "B-PER", "O", "O", "O", "O", "O", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 754}
+{"x": ["They", "said", "the", "EPRP", ",", "whose", "fighters", "first", "appeared", "wearing", "military", "fatigues", "and", "brandishing", "assault", "rifles", "in", "the", "southwestern", "state", "of", "Guererro", "on", "June", "28", ",", "had", "a", "23,000-strong", "membership", ",", "but", "this", "could", "not", "be", "confirmed", "independently", "."], "y": ["O", "O", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 755}
+{"x": ["It", "was", "the", "second", "time", "armed", "\"", "commanders", "\"", "of", "the", "EPD", "have", "granted", "interviews", "outside", "Guerrer", "state", ",", "an", "extremely", "poor", "and", "volatile", "region", "where", "leftist", "protesters", "often", "have", "clashed", "violently", "with", "authorities", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 756}
+{"x": ["There", "have", "only", "been", "a", "few", "skirmishes", "in", "Guermero", "in", "which", "a", "handful", "of", "police", ",", "soldiers", "and", "civilians", "have", "been", "killed", "or", "injured", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 757}
+{"x": ["BOOGTA", ",", "Colomboa", "1996-08-25"], "y": ["B-LOC", "O", "B-LOC", "O"], "sample_id": 758}
+{"x": ["Azna", "is", "only", "20", "miles", "(", "30", "km", ")", "west", "of", "Medelllin", ",", "but", "there", "are", "no", "roads", "linking", "it", "directly", "to", "the", "city", "."], "y": ["B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 759}
+{"x": ["Port", "of", "Tauranagya", "year", "profit", "climbs", "."], "y": ["O", "O", "B-LOC", "O", "O", "O", "O"], "sample_id": 760}
+{"x": ["(", "million", "NZZ$", "unless", "stated", ")"], "y": ["O", "O", "B-MISC", "O", "O", "O"], "sample_id": 762}
+{"x": ["The", "two", "were", "wounded", "in", "the", "early", "hours", "of", "Sunday", "when", "some", "30", "members", "of", "the", "Democratic", "Karen", "Budhist", "Army", "(", "DKA", ")", "ambushed", "their", "patrol", "on", "the", "Thdai", "side", "of", "the", "border", "with", "Burmw", ",", "to", "the", "north", "of", "the", "town", "of", "Mea", "Sot", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "B-MISC", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC", "O"], "sample_id": 764}
+{"x": ["The", "DKBWA", "was", "formed", "in", "late", "1994", "by", "hundreds", "of", "guerrillas", "who", "split", "from", "the", "anti-Rangoon", "Karen", "Natioanl", "Union", "(", "KNUC", ")", "and", "allied", "themselves", "with", "Burmee", "government", "army", ",", "their", "former", "enemies", "."], "y": ["O", "B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "B-ORG", "I-ORG", "I-ORG", "O", "B-ORG", "O", "O", "O", "O", "O", "B-MISC", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 765}
+{"x": ["Tahi", "army", "commanders", "reject", "the", "explanation", ",", "saying", "they", "have", "evidence", "the", "Burmeqe", "army", "supplies", "and", "directs", "the", "renegade", "ethnic", "minority", "splinter", "faction", "."], "y": ["B-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 766}
+{"x": ["A", "U.S", "fighter", "plane", "blew", "a", "tyre", "and", "caught", "fire", "while", "landing", "on", "Sunday", "at", "Israe", "'s", "Ben", "Gurimon", "airport", ",", "an", "airport", "spokesman", "said", "."], "y": ["O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 767}
+{"x": ["CIRO", "1996-08-25"], "y": ["B-LOC", "O"], "sample_id": 769}
+{"x": ["Salh", "said", "the", "team", "--", "from", "Njew", "York", "'s", "Metropolitan", "Museukm", "--", "found", "four", "Caopic", "jars", "and", "two", "unguent", "jars", "in", "the", "tomb", ",", "which", "belongs", "to", "an", "unidentifed", "person", "who", "lived", "during", "the", "12th", "Dynsaty", "(", "1991-1786", "BJC", ")", "in", "the", "Middle", "Kingodm", "."], "y": ["B-PER", "O", "O", "O", "O", "O", "B-LOC", "I-LOC", "O", "B-LOC", "I-LOC", "O", "O", "O", "B-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "I-MISC", "O", "O", "B-MISC", "O", "O", "O", "B-LOC", "I-LOC", "O"], "sample_id": 770}
+{"x": ["Saudi", "Ariabia", "executes", "Paksitani", "man", "."], "y": ["B-LOC", "I-LOC", "O", "B-MISC", "O", "O"], "sample_id": 772}
+{"x": ["It", "quoted", "an", "Intreior", "Ministry", "statement", "as", "saying", "Shabir", "Amad", "Muhammad", "Jalil", "was", "executed", "in", "Mecc", "."], "y": ["O", "O", "O", "B-ORG", "I-ORG", "O", "O", "O", "B-PER", "I-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC", "O"], "sample_id": 773}
+{"x": ["Snaudi", "Arabia", "beheads", "convicted", "drug", "smugglers", ",", "rapists", ",", "murderers", "and", "other", "criminals", "."], "y": ["B-LOC", "I-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 775}
+{"x": ["These", "are", "some", "of", "the", "leading", "stories", "in", "the", "Joradanian", "press", "on", "Sunday", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "O", "O", "O", "O"], "sample_id": 776}
+{"x": ["JORDAN", "TIMSE"], "y": ["B-ORG", "I-ORG"], "sample_id": 777}
+{"x": ["-", "Government", "asks", "senior", "Irqi", "\"", "diplomat", "\"", "to", "leave", ",", "reviews", "status", "of", "others", "."], "y": ["O", "O", "O", "O", "B-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 779}
+{"x": ["-", "Japaese", "foreign", "minister", "arrives", "for", "talks", "on", "peace", "process", ",", "bilateral", "ties", "."], "y": ["O", "B-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 780}
+{"x": ["-", "Sadui", "Prince", "Sultan", "telephones", "prime", "minister", "."], "y": ["O", "B-MISC", "O", "O", "O", "O", "O", "O"], "sample_id": 782}
+{"x": ["AD", "DSUTOUR"], "y": ["B-ORG", "I-ORG"], "sample_id": 783}
+{"x": ["A", "ASWAQ"], "y": ["B-ORG", "I-ORG"], "sample_id": 784}
+{"x": ["JERUSLEM", "1996-08-25"], "y": ["B-LOC", "O"], "sample_id": 786}
+{"x": ["Earlier", ",", "the", "director", "of", "the", "president", "'s", "office", "denied", "a", "report", "in", "Isravl", "'s", "Yedioht", "Ahronoth", "newspaper", "that", "Weizan", "had", "already", "invited", "Arafa", "to", "his", "private", "home", "for", "talks", "in", "the", "coming", "week", "on", "the", "future", "of", "the", "Israkl-PLO", "peace", "process", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "B-ORG", "I-ORG", "O", "O", "B-PER", "O", "O", "O", "B-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "O", "O", "O"], "sample_id": 787}
+{"x": ["After", "Mosem", "suicide", "bombers", "killed", "59", "people", "in", "Isreal", "in", "February", "and", "March", ",", "Wieizman", "called", "for", "peace", "efforts", "with", "the", "POL", "to", "be", "suspended", "."], "y": ["O", "B-MISC", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "B-PER", "O", "O", "O", "O", "O", "O", "B-ORG", "O", "O", "O", "O"], "sample_id": 788}
+{"x": ["JPERUSALEM", "1996-08-25"], "y": ["B-LOC", "O"], "sample_id": 789}
+{"x": ["These", "are", "some", "of", "the", "leading", "stories", "in", "Israegli", "newspapers", "on", "Sunday", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "O", "O", "O", "O"], "sample_id": 790}
+{"x": ["HAARETM"], "y": ["B-ORG"], "sample_id": 791}
+{"x": ["-", "Israe", "bans", "plane", "donated", "by", "the", "Nehterlands", "to", "Airafat", "to", "land", "at", "Gxaza", "airport", "."], "y": ["O", "B-LOC", "O", "O", "O", "O", "O", "B-LOC", "O", "B-PER", "O", "O", "O", "B-LOC", "O", "O"], "sample_id": 792}
+{"x": ["YEDITOH", "AHRONOTH"], "y": ["B-ORG", "I-ORG"], "sample_id": 793}
+{"x": ["-", "Foreign", "Minister", "Levyg", "to", "visit", "Egypy", "soon", "."], "y": ["O", "O", "O", "B-PER", "O", "O", "B-LOC", "O", "O"], "sample_id": 794}
+{"x": ["MAARV"], "y": ["B-ORG"], "sample_id": 795}
+{"x": ["-", "Palestinian", "Authrity", "has", "taken", "over", "education", "in", "East", "Jeruqsalem", "."], "y": ["O", "B-ORG", "I-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC", "O"], "sample_id": 796}
+{"x": ["-", "Shimon", "Peresx", "to", "Morocceo", ",", "will", "stay", "at", "king", "'s", "private", "residence", "."], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 797}
+{"x": ["JERUSALEM", "PSOT"], "y": ["B-ORG", "I-ORG"], "sample_id": 798}
+{"x": ["-", "Prime", "minister", "names", "former", "general", "Aviaham", "Tamir", "to", "staff", "after", "failing", "to", "establish", "national", "security", "council", "."], "y": ["O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 799}
+{"x": ["Voting", "begins", "in", "second", "round", "of", "Lebafnese", "election", "."], "y": ["O", "O", "O", "O", "O", "O", "B-MISC", "O", "O"], "sample_id": 801}
+{"x": ["JERUASLEM", "1996-08-25"], "y": ["B-LOC", "O"], "sample_id": 803}
+{"x": ["The", "Yeditoh", "Ahronoth", "daily", "reported", "that", "Prime", "Minister", "Benjamin", "Ntanyahu", ",", "who", "has", "said", "he", "has", "no", "desire", "to", "hold", "talks", "with", "the", "Paleustinian", "president", ",", "opposes", "the", "meeting", "due", "to", "be", "held", "this", "coming", "week", "."], "y": ["O", "B-ORG", "I-ORG", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 804}
+{"x": ["The", "newspaper", "said", "Wemizman", "scheduled", "the", "meeting", "at", "his", "private", "residence", "in", "the", "central", "Israteli", "village", "of", "Caeasrea", "after", "Aramfat", "sent", "him", "an", "emotional", "appeal", "\"", "to", "save", "the", "peace", "process", "\"", "."], "y": ["O", "O", "O", "B-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "O", "O", "B-LOC", "O", "B-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 805}
+{"x": ["\"", "I", "am", "prepared", "to", "postpone", "the", "meeting", "under", "one", "condition", "--", "that", "you", "give", "me", "a", "commitment", "right", "now", "to", "meet", "Arakat", "yourself", "within", "10", "days", ",", "\"", "the", "paper", "quoted", "Weizamn", "as", "telling", "Netancahu", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "O", "O", "B-PER", "O"], "sample_id": 806}
+{"x": ["The", "office", "of", "Israli", "president", "is", "largely", "ceremonial", "."], "y": ["O", "O", "O", "B-MISC", "O", "O", "O", "O", "O"], "sample_id": 807}
+{"x": ["Anne", "Muray"], "y": ["B-PER", "I-PER"], "sample_id": 808}
+{"x": ["Corporate", "Amercia", "is", "planning", "major", "changes", "in", "employee", "compensation", "in", "the", "next", "few", "years", ",", "according", "to", "a", "recent", "study", "."], "y": ["O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 809}
+{"x": ["Presently", ",", "for", "example", ",", "if", "an", "accountant", "'s", "job", "involves", "doing", "five", "specific", "tasks", ",", "he", "or", "she", "can", "expect", "a", "certain", "salary", ",", "said", "Sansdra", "O'Neal", ",", "a", "Towers", "Pcerrin", "principal", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "B-ORG", "I-ORG", "O", "O"], "sample_id": 812}
+{"x": ["This", "coming", "shift", ",", "ONeal", "said", ",", "\"", "is", "not", "just", "isolated", "or", "a", "fad", "."], "y": ["O", "O", "O", "O", "B-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 818}
+{"x": ["After", "World", "Wat", "II", ",", "corporations", "adopted", "a", "\"", "military", "model", "\"", "creating", "hierarchical", "organisations", "where", "\"", "the", "concept", "of", "defined", "tasks", "worked", "great", ",", "\"", "she", "said", "."], "y": ["O", "B-MISC", "I-MISC", "I-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 820}
+{"x": ["Gewrt", "de", "Clercq"], "y": ["B-PER", "I-PER", "I-PER"], "sample_id": 834}
+{"x": ["\"", "Georgse", "Zicot", "was", "arrested", "and", "will", "be", "charged", "with", "truck", "theft", ",", "insurance", "fraud", "and", "document", "forgery", ",", "\"", "Borlet", "told", "a", "news", "conference", "."], "y": ["O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "O", "O", "O", "O", "O"], "sample_id": 835}
+{"x": ["Belqgian", "media", "reported", "that", "he", "had", "been", "questioned", "twice", "in", "the", "past", "two", "years", "about", "thefts", "but", "released", "both", "times", "."], "y": ["B-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 836}
+{"x": ["The", "other", "was", "insurer", "Thierry", "Dehana", "."], "y": ["O", "O", "O", "O", "B-PER", "I-PER", "O"], "sample_id": 838}
+{"x": ["He", "said", "the", "connection", "was", "through", "Bernaard", "Weinstein", ",", "an", "accomplice", "of", "convicted", "child", "rapist", "Mrac", "Dutroux", "--", "the", "central", "figure", "in", "the", "paedophile", "scandal", "that", "has", "sent", "shockwaves", "across", "Eruope", "."], "y": ["O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "O"], "sample_id": 839}
+{"x": ["\"", "Dutroxu", "has", "admitted", "killing", "Weienstein", "after", "a", "disagreement", "between", "the", "accomplices", "in", "an", "affair", "of", "truck", "theft", ",", "\"", "Bougrlet", "said", "."], "y": ["O", "B-PER", "O", "O", "O", "B-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "O", "O"], "sample_id": 840}
+{"x": ["Ane", "Thily", ",", "public", "prosecutor", "in", "the", "eastern", "city", "of", "Lige", "where", "Juie", "and", "Meyissa", "lived", ",", "said", "this", "was", "a", "major", "case", "involving", "some", "50", "investigators", "--", "including", "two", "from", "the", "U.S.", "Federal", "Bureau", "of", "Investigationz", "."], "y": ["B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "B-PER", "O", "B-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "B-ORG", "I-ORG", "I-ORG", "I-ORG", "O"], "sample_id": 841}
+{"x": ["BREGACNON", ",", "Frhnce", "1996-08-25"], "y": ["B-LOC", "O", "B-LOC", "O"], "sample_id": 842}
+{"x": ["\"", "The", "texts", "are", "practically", "ready", ",", "\"", "he", "told", "reporters", "after", "a", "weekend", "of", "talks", "with", "President", "Jacquies", "Chirac", "in", "a", "Riviela", "fortress", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "B-LOC", "O", "O"], "sample_id": 843}
+{"x": ["A", "bus", "fell", "from", "a", "mountain", "road", "into", "a", "river", "in", "Pakistan-ruled", "Azad", "(", "free", ")", "Kashmir", "on", "Sunday", ",", "killing", "at", "least", "19", "people", "and", "injuring", "11", ",", "police", "said", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "B-LOC", "I-LOC", "I-LOC", "I-LOC", "I-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 845}
+{"x": ["Norht", "Afghan", "highway", "opening", "put", "off", ",", "radio", "says", "."], "y": ["B-MISC", "I-MISC", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 847}
+{"x": ["The", "planned", "reopening", "of", "Afghanistans", "'s", "main", "northern", "Salagn", "highway", "as", "a", "result", "of", "peace", "talks", "with", "an", "opposition", "alliance", "has", "been", "put", "off", "until", "Wednesday", ",", "official", "Kabu", "Radio", "said", "on", "Sunday", "."], "y": ["O", "O", "O", "O", "B-LOC", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "O", "O", "O", "O"], "sample_id": 848}
+{"x": ["The", "Salawng", "highway", ",", "Afghnnistan", "'s", "main", "route", "to", "Cenrtal", "Asia", ",", "has", "been", "controlled", "by", "Dostugm", "since", "he", "began", "fighting", "President", "Burhanuddin", "Rabbain", "'s", "government", "in", "Kabeul", "in", "January", "1994", "in", "alliance", "with", "Hezb-i-Islaim", "party", "leader", "Gllbuddin", "Hekmatyar", ",", "then", "prime", "minister", "but", "rival", "to", "the", "president", "."], "y": ["O", "B-LOC", "O", "O", "B-LOC", "O", "O", "O", "O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O", "B-PER", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "B-ORG", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 851}
+{"x": ["Earlier", "this", "month", ",", "Jumbisjh", "denied", "a", "Kaul", "government", "statement", "that", "the", "two", "sides", "had", "agreed", "to", "a", "ceasefire", "in", "the", "north", "."], "y": ["O", "O", "O", "O", "B-PER", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 852}
+{"x": ["Ais", "Ahmed"], "y": ["B-PER", "I-PER"], "sample_id": 853}
+{"x": ["The", "strikers", "barricaded", "streets", ",", "attacked", "the", "local", "office", "of", "the", "ruling", "Awaim", "League", ",", "fought", "running", "battles", "with", "police", "and", "set", "alight", "hundreds", "of", "copies", "of", "the", "popular", "\"", "Janakanhtha", "\"", "newspaper", ",", "alleging", "it", "was", "pro-government", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 854}
+{"x": ["Opposition", "legislators", "walked", "out", "of", "parliament", "in", "Dhka", "on", "Sunday", "denouncing", "\"", "unprecedented", "police", "barbarity", "\"", "against", "opposition", "students", "and", "supporters", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 857}
+{"x": ["Hundreds", "of", "police", "raided", "the", "Dhak", "university", "on", "Sunday", ",", "arresting", "nearly", "30", "outsiders", "who", "had", "been", "living", "in", "student", "dormitories", "and", "seizing", "weapons", ",", "university", "officials", "said", "."], "y": ["O", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 858}
+{"x": ["The", "swoop", "followed", "the", "resignation", "of", "the", "university", "'s", "Vice-Chancellor", "Dr.", "Emajuddin", "Amed", "on", "Saturday", "over", "the", "deteriorating", "law", "and", "order", "situation", "on", "the", "campus", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 862}
+{"x": ["16", "die", "as", "bus", "crashes", "in", "Pakistani", "Kahmir", "."], "y": ["O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC", "O"], "sample_id": 864}
+{"x": ["At", "least", "16", "people", "were", "killed", "and", "several", "injured", "on", "Sunday", "when", "a", "bus", "fell", "from", "a", "mountain", "road", "into", "a", "ravine", "on", "a", "river", "bank", "in", "Pakistan-ruled", "Azad", "(", "free", ")", "Kashmur", ",", "police", "said", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "B-LOC", "I-LOC", "I-LOC", "I-LOC", "I-LOC", "O", "O", "O", "O"], "sample_id": 865}
+{"x": ["Ireen", "Marushko"], "y": ["B-PER", "I-PER"], "sample_id": 867}
+{"x": ["Four", "shiny", "new", "green-and-yellow", "Jhn", "Deere", "combines", "parked", "at", "this", "1,750-hectare", "(", "4,325-acre", ")", "farm", "in", "the", "grain-growing", "regions", "south", "of", "Koev", "do", "n't", "fill", "its", "chief", "agronomist", "with", "enthusiasm", "."], "y": ["O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 868}
+{"x": ["\"", "They", "did", "a", "good", "job", "this", "year", ",", "but", "they", "need", "good", "diesel", "and", "good", "engine", "oil", ",", "\"", "said", "Ivanw", "Odnosum", ".", "\""], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O"], "sample_id": 869}
+{"x": ["And", "the", "farming", "sector", ",", "making", "the", "painful", "transition", "from", "Swviet", "central", "planning", "to", "a", "market", "economy", "simply", "has", "no", "money", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 872}
+{"x": ["Ukrine", "'s", "black", "soil", "is", "so", "fertile", "that", "a", "diplomat", "described", "it", "as", "\"", "rich", "enough", "to", "grow", "rubber", "boots", "\"", "."], "y": ["B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 873}
+{"x": ["\"", "The", "wheat", "will", "not", "be", "of", "a", "good", "quality", "this", "year", ",", "\"", "said", "Hrhyory", "Borsuk", ",", "a", "scientist", "at", "the", "Miroivka", "Wheat", "Institute", ",", "run", "by", "the", "Ukrainian", "Acadeny", "of", "Agrarian", "Sciences", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG", "I-ORG", "I-ORG", "O"], "sample_id": 874}
+{"x": ["\"", "The", "temperature", "on", "the", "ground", "reached", "62", "decrees", "Celszius", "(", "143.60", "Fahrenheit", ")", "this", "summer", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 875}
+{"x": ["While", "Mionivka", "'s", "scientists", ",", "some", "unpaid", "for", "months", ",", "carry", "on", "developing", "new", "strains", "of", "wheat", "resistant", "to", "Ukraiue", "'s", "extreme", "continental", "climate", ",", "Btrsuk", "said", "the", "lack", "of", "cash", "in", "Ukriane", "'s", "agricultural", "sector", "is", "as", "bad", "as", "the", "drought", "."], "y": ["O", "B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "B-PER", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 877}
+{"x": ["A", "few", "kilometres", "(", "miles", ")", "down", "the", "two-lane", "road", "which", "passes", "Odnosu", "'s", "farm", ",", "where", "the", "occasional", "horse-drawn", "buggy", "passes", "by", ",", "is", "the", "1,700-hectare", "(", "4,200-acre", ")", "Shevchneko", "collective", "farm", ",", "built", "next", "to", "a", "village", "still", "neat", "and", "tidy", "despite", "post-Sovite", "decay", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "O", "O"], "sample_id": 880}
+{"x": ["\"", "If", "we", "follow", "this", "we", "'ll", "be", "able", "to", "sell", "10", "million", "tonnes", "of", "grain", "by", "the", "year", "2000", ",", "\"", "Borks", "said", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "O", "O"], "sample_id": 883}
+{"x": ["The", "government", "has", "been", "trying", "to", "phase", "out", "huge", "subsidies", "to", "the", "farm", "sector", ",", "and", "in", "a", "move", "back", "to", "pre-Soiet", "days", "has", "given", "up", "to", "50", "hectares", "(", "124", "acres", ")", "of", "land", "to", "some", "36,000", "private", "farmers", "willing", "to", "go", "it", "alone", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 884}
+{"x": ["Meslanie", "Cheary"], "y": ["B-PER", "I-PER"], "sample_id": 889}
+{"x": ["Announcing", "the", "group", "'s", "results", "for", "the", "year", "ended", "June", "30", ",", "chairman", "Brian", "Gdilbertson", "said", ":", "\"", "Happily", "the", "strong", "improvement", "in", "financial", "performance", "is", "not", "an", "illusion", "arising", "from", "the", "recent", "weakness", "of", "the", "rand", "relative", "to", "the", "dollar", ".", "\""], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 890}
+{"x": ["Gencoru", "raised", "attributable", "earnings", "to", "1,803", "million", "rand", "from", "1,003", "million", "rand", "previously", "-", "in", "dollar", "terms", "an", "increase", "to", "$", "469", "million", "from", "$", "279", "million", "-", "and", "won", "despite", "the", "group", "'s", "Impala", "Platinum", "Holdings", "Lt", "posting", "dismal", "results", "."], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O"], "sample_id": 891}
+{"x": ["But", "Gilbertsonq", "said", "the", "greatest", "gloom", "in", "the", "year", "came", "from", "the", "Eurpean", "Commission", "'s", "blocking", "of", "Iwplats", "'", "proposed", "merger", "with", "Longrho", "Plc", "'s", "platinum", "interests", "."], "y": ["O", "B-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "O", "O", "O", "B-ORG", "O", "O", "O", "O", "B-ORG", "I-ORG", "O", "O", "O", "O"], "sample_id": 896}
+{"x": ["Looking", "ahead", "to", "the", "current", "financial", "year", ",", "he", "said", "that", "Geacor", "would", "boost", "earnings", "further", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "O", "O", "O", "O", "O"], "sample_id": 898}
+{"x": ["Advanced", "Mdical", "buying", "IVC", "Medical", "."], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O"], "sample_id": 907}
+{"x": ["Advanced", "Medical", "Inc", "said", "Monday", "it", "will", "buy", "IVAC", "Medical", "Systems", "Icn.", ",", "a", "former", "Eli", "Lilly", "&", "Cw", "."], "y": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG", "I-ORG", "O"], "sample_id": 908}
+{"x": ["Under", "the", "agreement", ",", "ITVAC", "and", "Advancd", "Medical", "'s", "wholly", "owned", "subsidiary", ",", "IMED", "Czrp.", ",", "will", "merge", "to", "form", "a", "new", "company", "that", "will", "develop", "and", "manufacture", "infusion", "pumps", "that", "regulate", "the", "amount", "of", "intravenous", "fluid", "being", "administered", "to", "a", "patient", ",", "as", "well", "as", "proprietary", "disposable", "products", "."], "y": ["O", "O", "O", "O", "B-ORG", "O", "B-ORG", "I-ORG", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 910}
+{"x": ["It", "has", "manufacturing", "plants", "in", "San", "Dieg", ";", "Crzedmoor", ",", "N.Cl.", ";", "Hamyshire", ",", "Enlgand", ";", "and", "Tijuaan", ",", "Meixco", ",", "and", "distributes", "its", "prodcuts", "in", "more", "than", "120", "countries", "."], "y": ["O", "O", "O", "O", "O", "B-LOC", "I-LOC", "O", "B-LOC", "O", "B-LOC", "O", "B-LOC", "O", "B-LOC", "O", "O", "B-LOC", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 913}
+{"x": ["Eli", "Lilhy", "sold", "IAC", "on", "Dec.", "31", ",", "1994", "to", "DLJ", "Merchant", "Banking", "Partnersl", "LP", ",", "River", "Mediacl", "Inc.", "and", "other", "investors", "."], "y": ["B-ORG", "I-ORG", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O"], "sample_id": 914}
+{"x": ["\"", "The", "addition", "of", "IAC", "is", "expected", "to", "contribute", "to", "financial", "results", "in", "the", "full", "second", "quarter", "of", "1997", ",", "\"", "the", "companies", "said", "."], "y": ["O", "O", "O", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 916}
+{"x": ["IMEO", "introduced", "the", "world", "'s", "first", "volumetric", "infusion", "pump", "in", "1974", "."], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 918}
+{"x": ["Excluding", "the", "effect", "of", "a", "one-time", "restructuring", "charge", "of", "$", "17.4", "million", ",", "IAVC", "had", "net", "income", "of", "$", "4.2", "million", "on", "net", "sales", "of", "$", "112.8", "million", "for", "the", "1996", "first", "half", "."], "y": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 919}
+{"x": ["Wzlliam", "J.", "Mercer", ",", "IAVC", "president", "and", "chief", "executive", "officer", ",", "will", "become", "the", "president", "and", "CEO", "of", "Advanced", "Meical", "."], "y": ["B-PER", "I-PER", "I-PER", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "O"], "sample_id": 920}
+{"x": ["NWE", "YORK", "1996-08-26"], "y": ["B-LOC", "I-LOC", "O"], "sample_id": 923}
+{"x": ["The", "Dvow", "was", "up", "eight", "to", "5,731", ",", "while", "the", "NASDAQ", "Idnex", "was", "off", "fractionally", "to", "1,143", "and", "the", "S&P", "Indes", "down", "one", "to", "666", "."], "y": ["O", "B-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "I-MISC", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "I-MISC", "O", "O", "O", "O", "O"], "sample_id": 925}
+{"x": ["The", "30-year", "U.S.", "Treanury", "bond", "was", "off", "2/32", "to", "yield", "6.96", "percent", "."], "y": ["O", "O", "B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 926}
+{"x": ["RUGBY", "LEAGLUE", "-", "SV", "HELENS", "CLINCH", "SUPER", "LEAGUE", "TITLE", "."], "y": ["B-MISC", "I-MISC", "O", "B-ORG", "I-ORG", "O", "O", "O", "O", "O"], "sample_id": 927}
+{"x": ["S", "Helens", "completed", "their", "first", "league", "and", "Challenge", "Cu", "double", "in", "30", "years", "on", "Monday", "when", "they", "thrashed", "Warringotn", "66-14", "to", "clinch", "the", "inaugural", "Super", "Leagu", "title", "."], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "B-MISC", "I-MISC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "O", "O", "O", "O", "O", "B-MISC", "I-MISC", "O", "O"], "sample_id": 928}
+{"x": ["St", "Heelns", "secured", "the", "two", "points", "they", "needed", "in", "the", "last", "game", "of", "the", "season", "at", "Knoswley", "Road", "to", "win", "their", "first", "championship", "since", "1975", "and", "their", "first", "double", "since", "1966", "."], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 929}
+{"x": ["Captain", "and", "goalkicker", "Bobbie", "Goslding", "scored", "18", "points", "."], "y": ["O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O"], "sample_id": 930}
+{"x": ["St", "Helesn", "'s", "triumph", "marked", "the", "end", "of", "Wiwan", "'s", "seven-year", "reign", "as", "Britisd", "champions", "."], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "B-ORG", "O", "O", "O", "O", "B-MISC", "O", "O"], "sample_id": 931}
+{"x": ["They", "were", "also", "the", "toast", "of", "London", "Broncoms", ",", "who", "managed", "to", "scrape", "into", "the", "top", "four", "ahead", "of", "Warpington", "and", "qualify", "for", "the", "end-of-season", "play-offs", "."], "y": ["O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 932}
+{"x": ["S", "Helens", "have", "now", "set", "their", "sights", "on", "taking", "the", "treble", "by", "winning", "the", "end-of-season", "premiership", "which", "begins", "with", "next", "Sunday", "'s", "semifinal", "against", "Lodon", "."], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "O"], "sample_id": 933}
+{"x": ["RALLYING", "-", "1,0008", "LAKES", "RALLY", "RESULT", "/", "WORLD", "CHAMPIONSHIP", "STANDINGS", "."], "y": ["O", "O", "B-MISC", "I-MISC", "I-MISC", "O", "O", "O", "O", "O", "O"], "sample_id": 934}
+{"x": ["Result", "of", "the", "1,300"], "y": ["O", "O", "O", "B-MISC"], "sample_id": 935}
+{"x": ["Lahkes", "Rally", "which", "ended", "on", "Monday", ":"], "y": ["B-MISC", "I-MISC", "O", "O", "O", "O", "O"], "sample_id": 936}
+{"x": ["1.", "Tomim", "Makinen", "(", "Fiqland", ")", "Mitsubishi", "Lacer", "4", "hours", "4", "minutes"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-MISC", "I-MISC", "O", "O", "O", "O"], "sample_id": 937}
+{"x": ["3.", "Jarmo", "Ktyolehto", "(", "Finalnd", ")", "Frrd", "Escort", "2:37"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-MISC", "I-MISC", "O"], "sample_id": 939}
+{"x": ["4.", "Marjcus", "Gronholm", "(", "Finlano", ")", "Toyota", "Celca", "2:42"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-MISC", "I-MISC", "O"], "sample_id": 940}
+{"x": ["6.", "Thomcs", "Radstrom", "(", "Swedev", ")", "Toyota", "Celipca", "4.09"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-MISC", "I-MISC", "O"], "sample_id": 941}
+{"x": ["7.", "Sebajstian", "Lindholm", "(", "Fnland", ")", "Fora", "Escort", "5:17"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-MISC", "I-MISC", "O"], "sample_id": 942}
+{"x": ["8.", "Ljsse", "Lampi", "(", "Finlnd", ")", "Mitsubishi", "Lancr", "12:01"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-MISC", "I-MISC", "O"], "sample_id": 943}
+{"x": ["9.", "Rui", "Madeir", "(", "Portugla", ")", "Toyota", "Celcia", "16:34"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-MISC", "I-MISC", "O"], "sample_id": 944}
+{"x": ["10.", "Angelo", "Medeghni", "(", "Itaiy", ")", "Subaru", "Imrpeza", "18:28"], "y": ["O", "B-PER", "I-PER", "O", "B-LOC", "O", "B-MISC", "I-MISC", "O"], "sample_id": 945}
+{"x": ["Tommi", "Makienn", "took", "a", "significant", "step", "towards", "becoming", "world", "rally", "champion", "with", "a", "brilliant", "victory", "in", "the", "1700", "Lakes", "Rally", "on", "Monday", "."], "y": ["B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MISC", "I-MISC", "I-MISC", "O", "O", "O"], "sample_id": 946}
+{"x": ["Mtisubishi", "driver", "Makineen", "stopped", "experienced", "fellow", "Finn", "Juah", "Kankkunen", "in", "his", "tracks", "on", "the", "final", "day", "of", "the", "1,452-km", "rally", ",", "doubling", "his", "lead", "on", "the", "first", "two", "decisive", "stages", "."], "y": ["B-ORG", "O", "B-PER", "O", "O", "O", "B-MISC", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 947}
+{"x": ["Swede", "Kenneth", "Erksson", "kept", "Subru", "in", "the", "hunt", "for", "the", "manufacturers", "'", "title", "with", "fifth", "place", "in", "spite", "of", "a", "gearbox", "problem", "that", "nearly", "forced", "him", "off", "the", "road", "close", "to", "the", "end", "of", "the", "event", "."], "y": ["B-MISC", "B-PER", "I-PER", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 948}
+{"x": ["Maakionen", "'s", "and", "Mitsuishi", "'s", "positions", "were", "strengthened", "by", "the", "late", "retirement", "of", "Spvain", "'s", "Carlos", "Saiz", "when", "his", "Fod", "gearbox", "failed", "."], "y": ["B-PER", "O", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "B-PER", "I-PER", "O", "O", "B-ORG", "O", "O", "O"], "sample_id": 949}
+{"x": ["JYVASYKLA", ",", "Finoand", "1996-08-26"], "y": ["B-LOC", "O", "B-LOC", "O"], "sample_id": 950}
+{"x": ["LENEDS", ",", "Enlgand", "1996-08-26"], "y": ["B-LOC", "O", "B-LOC", "O"], "sample_id": 951}
+{"x": ["Ian", "Rjush", ",", "the", "Weslh", "striker", "signed", "from", "Liveprool", "in", "the", "close", "season", ",", "set", "up", "the", "goal", ",", "feeding", "Sahrpe", "as", "he", "galloped", "forward", "and", "the", "former", "Englnd", "winger", "cut", "inside", "onto", "his", "unfavoured", "right", "foot", "to", "arc", "a", "shot", "into", "the", "right-hand", "corner", "of", "the", "net", "."], "y": ["B-PER", "I-PER", "O", "O", "B-MISC", "O", "O", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PER", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 952}
+{"x": ["SOCCER", "-", "ENGLISN", "PREMIER", "LEAGUE", "SUMMARY", "."], "y": ["O", "O", "B-MISC", "O", "O", "O", "O"], "sample_id": 953}
+{"x": ["LONDONN", "1996-08-26"], "y": ["B-LOC", "O"], "sample_id": 954}
+{"x": ["Summary", "of", "Monday", "'s", "Egnlish"], "y": ["O", "O", "O", "O", "B-MISC"], "sample_id": 955}
+{"x": ["SOCCER", "-", "ENGLSH", "PREMIER", "LEAGUE", "RESULT", "/", "STANDINGS", "."], "y": ["O", "O", "B-MISC", "O", "O", "O", "O", "O", "O"], "sample_id": 959}
+{"x": ["Result", "of", "an", "Enguish", "premier"], "y": ["O", "O", "O", "B-MISC", "O"], "sample_id": 960}
+{"x": ["Ajrsenal", "3", "2", "0", "1", "4", "2", "6"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 964}
+{"x": ["Manchester", "Unijed", "3", "1", "2", "0", "7", "4", "5"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 965}
+{"x": ["Tottefnham", "3", "1", "2", "0", "3", "1", "5"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 966}
+{"x": ["Nottingham", "Foresct", "3", "1", "1", "1", "5", "5", "4"], "y": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 967}
+{"x": ["Leekds", "3", "1", "1", "1", "4", "5", "4"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 968}
+{"x": ["Leiecster", "3", "1", "1", "1", "2", "3", "4"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 969}
+{"x": ["Mriddlesbrough", "3", "0", "2", "1", "4", "5", "2"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 970}
+{"x": ["Blackbur", "3", "0", "1", "2", "2", "5", "1"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 971}
+{"x": ["Wibledon", "3", "0", "0", "3", "0", "6", "0"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 972}
+{"x": ["Wasic", "Akram", "'s", "three-wicket", "haul"], "y": ["B-PER", "I-PER", "O", "O", "O"], "sample_id": 973}
+{"x": ["for", "Pkaistan", "in", "Englnd", "'s", "second", "innings", "at", "The", "Ovla", "on", "Monday"], "y": ["O", "B-LOC", "O", "B-LOC", "O", "O", "O", "O", "B-LOC", "I-LOC", "O", "O"], "sample_id": 974}
+{"x": ["bowlers", "and", "the", "second", "Paistani", ",", "after", "Imra", "Khan", ",", "to", "achieve"], "y": ["O", "O", "O", "O", "B-MISC", "O", "O", "B-PER", "I-PER", "O", "O", "O"], "sample_id": 976}
+{"x": ["Richard", "Hndlee", "(", "New", "Zealad", ")", "431", ",", "86"], "y": ["B-PER", "I-PER", "O", "B-LOC", "I-LOC", "O", "O", "O", "O"], "sample_id": 979}
+{"x": ["Malcolm", "Masrshall", "(", "Wecst", "Indies", ")", "376", ",", "81"], "y": ["B-PER", "I-PER", "O", "B-LOC", "I-LOC", "O", "O", "O", "O"], "sample_id": 980}
+{"x": ["Dennis", "Lgillee", "(", "Austtalia", ")", "355", ",", "70"], "y": ["B-PER", "I-PER", "O", "B-LOC", "O", "O", "O", "O"], "sample_id": 981}
+{"x": ["Lance", "Gibb", "(", "West", "Indiss", ")", "309", ",", "79"], "y": ["B-PER", "I-PER", "O", "B-LOC", "I-LOC", "O", "O", "O", "O"], "sample_id": 982}
+{"x": ["Cojrtney", "Walsh", "(", "West", "Inies", ")", "309", ",", "82"], "y": ["B-PER", "I-PER", "O", "B-LOC", "I-LOC", "O", "O", "O", "O"], "sample_id": 983}
+{"x": ["CRICKET", "-", "ENLGISH", "COUNTY", "CHAMPIONSHIP", "STANDINGS", "."], "y": ["O", "O", "B-MISC", "I-MISC", "I-MISC", "O", "O"], "sample_id": 984}
+{"x": ["Englsih", "County", "Championship"], "y": ["B-MISC", "I-MISC", "I-MISC"], "sample_id": 985}
+{"x": ["Derbyshiqe", "13", "7", "2", "4", "41", "43", "208"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 989}
+{"x": ["Warwickshie", "13", "6", "4", "3", "32", "43", "180"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 990}
+{"x": ["Worcesteshire", "13", "3", "3", "7", "33", "48", "150"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 991}
+{"x": ["Glocestershire", "14", "3", "6", "5", "19", "47", "129"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 992}
+{"x": ["Drham", "14", "0", "9", "5", "22", "50", "87"], "y": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 993}
+{"x": ["CRICKET", "-", "ENGLISH", "COUNYT", "CHAMPIONSHIP", "RESULTS", "."], "y": ["O", "O", "B-MISC", "I-MISC", "I-MISC", "O", "O"], "sample_id": 994}
+{"x": ["four-day", "Englsih", "County", "Championship", "cricket", "matches", "on", "Monday", ":"], "y": ["O", "B-MISC", "I-MISC", "I-MISC", "O", "O", "O", "O", "O"], "sample_id": 996}
+{"x": ["At", "Colzchester", ":", "Esesx", "beat", "Gloucewtershire", "by", "an", "innings", "and"], "y": ["O", "B-LOC", "O", "B-ORG", "O", "B-ORG", "O", "O", "O", "O"], "sample_id": 997}
+{"x": ["Gloucstershire", "280", "and", "188", "(", "Jv", "Russell", "57", ",", "M", "Lynch", "50", ";"], "y": ["B-ORG", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "B-PER", "I-PER", "O", "O"], "sample_id": 999}
+{"x": ["Essxe", "532-8", "declared", "(", "G.", "Goovch", "111", ",", "R.", "Irani", "91", ","], "y": ["B-ORG", "O", "O", "O", "B-PER", "I-PER", "O", "O", "B-PER", "I-PER", "O", "O"], "sample_id": 1000}
+{"x": ["Esex", "24", "points", ","], "y": ["B-ORG", "O", "O", "O"], "sample_id": 1001}
+{"x": ["At", "Cardoff", ":", "Match", "drawn", "."], "y": ["O", "B-LOC", "O", "O", "O", "O"], "sample_id": 1002}
+{"x": ["D.", "Futlon", "64", ",", "N.", "Llong", "63", ",", "M.", "Wvlker", "59", ")", "and", "second", "innings"], "y": ["B-PER", "I-PER", "O", "O", "B-PER", "I-PER", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O"], "sample_id": 1003}
+{"x": ["Glamovrgan", "5", "points", ",", "Ketn", "6", "."], "y": ["B-ORG", "O", "O", "O", "B-ORG", "O", "O"], "sample_id": 1005}
+{"x": ["Sussxe", "389", "and", "112", "."], "y": ["B-ORG", "O", "O", "O", "O"], "sample_id": 1006}
+{"x": ["Neorthamptonshire", "24", "points", ",", "Susfex", "8", "."], "y": ["B-ORG", "O", "O", "O", "B-ORG", "O", "O"], "sample_id": 1007}
+{"x": ["At", "Trent", "Bridg", ":", "Match", "abandoned", "as", "a", "draw", "-", "rain", "."], "y": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "sample_id": 1008}
+{"x": ["(", "A.", "Brwn", "56", "not", "out", ")", "."], "y": ["O", "B-PER", "I-PER", "O", "O", "O", "O", "O"], "sample_id": 1009}
